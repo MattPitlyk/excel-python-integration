@@ -1,7 +1,7 @@
 #python functions exposed numpy and scipy functions to Excel
 
 
-# from pyxll import xl_func
+from pyxll import xl_func
 import scipy
 from scipy import stats
 import numpy
