@@ -1,0 +1,63 @@
+2014-05-08 15:02:20,983 - INFO : 
+------------------------------------------------------------------------------
+  PyXLL 
+
+  Version          2.1.0
+  Buildtime        2014-01-19 18:40
+  Python version   2.7.5.final.0
+  Excel version    14.0
+
+  www.pyxll.com
+------------------------------------------------------------------------------
+
+2014-05-08 15:02:21,670 - WARNING : pydevd failed to import - eclipse debugging won't work
+2014-05-08 15:02:21,671 - WARNING : Check the eclipse path in C:\Users\557140\AppData\Roaming\Microsoft\AddIns\pyxll-2.1.0-x86-py27\examples\tools\eclipse_debug.pyc
+2014-05-08 15:02:21,673 - INFO : callbacks.license_notifier: This copy of PyXLL is for evaluation or non-commercial use only
+2014-05-08 15:02:44,213 - INFO : 
+------------------------------------------------------------------------------
+  PyXLL 
+
+  Version          2.1.0
+  Buildtime        2014-01-19 18:40
+  Python version   2.7.5.final.0
+  Excel version    14.0
+
+  www.pyxll.com
+------------------------------------------------------------------------------
+
+2014-05-08 15:02:44,217 - WARNING : custom1 is already a custom type - overriding
+2014-05-08 15:02:44,219 - WARNING : custom1 is already a custom type - overriding
+2014-05-08 15:02:44,219 - WARNING : custom1 is already a custom type - overridding
+2014-05-08 15:02:44,219 - WARNING : custom2 is already a custom type - overriding
+2014-05-08 15:02:44,219 - WARNING : custom2 is already a custom type - overriding
+2014-05-08 15:02:44,219 - WARNING : custom2 is already a custom type - overridding
+2014-05-08 15:02:44,219 - WARNING : custom3 is already a custom type - overriding
+2014-05-08 15:02:44,220 - WARNING : custom3 is already a custom type - overriding
+2014-05-08 15:02:44,220 - WARNING : custom3 is already a custom type - overridding
+2014-05-08 15:02:44,220 - WARNING : int_list is already a custom type - overriding
+2014-05-08 15:02:44,220 - WARNING : float_list is already a custom type - overriding
+2014-05-08 15:02:44,220 - WARNING : custom1_list is already a custom type - overriding
+2014-05-08 15:02:44,220 - WARNING : custom1_list is already a custom type - overriding
+2014-05-08 15:02:44,220 - WARNING : float_list is already a custom type - overriding
+2014-05-08 15:02:44,220 - WARNING : int_list is already a custom type - overriding
+2014-05-08 15:02:44,226 - WARNING : cached_object is already a custom type - overridding
+2014-05-08 15:02:44,226 - WARNING : cached_object is already a custom type - overriding
+2014-05-08 15:02:44,226 - WARNING : cached_object is already a custom type - overriding
+2014-05-08 15:02:44,230 - WARNING : pydevd failed to import - eclipse debugging won't work
+2014-05-08 15:02:44,230 - WARNING : Check the eclipse path in C:\Users\557140\AppData\Roaming\Microsoft\AddIns\pyxll-2.1.0-x86-py27\examples\tools\eclipse_debug.pyc
+2014-05-08 15:02:44,233 - INFO : callbacks.license_notifier: This copy of PyXLL is for evaluation or non-commercial use only
+2014-05-09 08:45:56,049 - ERROR : Error calling function array_pyxll_function_5
+2014-05-09 08:45:56,051 - ERROR : Traceback (most recent call last):
+2014-05-09 08:45:56,051 - ERROR :   File "pyxll", line 1466, in _xl_func_wrapper
+2014-05-09 08:45:56,071 - ERROR :   File "pyxll", line 1457, in _xl_func_wrapper
+2014-05-09 08:45:56,072 - ERROR :   File "C:\Users\557140\AppData\Roaming\Microsoft\AddIns\pyxll-2.1.0-x86-py27\examples\worksheetfuncs.py", line 187, in array_pyxll_function_5
+2014-05-09 08:45:56,082 - ERROR :     assert len(x) == height
+2014-05-09 08:45:56,082 - ERROR : AssertionError
+2014-05-09 08:45:58,940 - ERROR : Error calling function array_pyxll_function_5
+2014-05-09 08:45:58,940 - ERROR : Traceback (most recent call last):
+2014-05-09 08:45:58,940 - ERROR :   File "pyxll", line 1466, in _xl_func_wrapper
+2014-05-09 08:45:58,940 - ERROR :   File "pyxll", line 1457, in _xl_func_wrapper
+2014-05-09 08:45:58,941 - ERROR :   File "C:\Users\557140\AppData\Roaming\Microsoft\AddIns\pyxll-2.1.0-x86-py27\examples\worksheetfuncs.py", line 188, in array_pyxll_function_5
+2014-05-09 08:45:58,943 - ERROR :     assert len(x[0]) == width
+2014-05-09 08:45:58,943 - ERROR : AssertionError
+2014-05-09 08:49:27,891 - INFO : callbacks.on_close: PyXLL is closing

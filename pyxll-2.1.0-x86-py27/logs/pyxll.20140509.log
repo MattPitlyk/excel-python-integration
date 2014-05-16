@@ -1,0 +1,1369 @@
+2014-05-09 08:49:42,085 - INFO : 
+------------------------------------------------------------------------------
+  PyXLL 
+
+  Version          2.1.0
+  Buildtime        2014-01-19 18:40
+  Python version   2.7.5.final.0
+  Excel version    14.0
+
+  www.pyxll.com
+------------------------------------------------------------------------------
+
+2014-05-09 08:49:42,128 - ERROR : Error importing 'worksheetfuncs': unexpected indent (worksheetfuncs.py, line 306)
+2014-05-09 08:49:42,128 - ERROR : Traceback (most recent call last):
+2014-05-09 08:49:42,128 - ERROR :   File "pyxll", line 719, in _open
+2014-05-09 08:49:42,128 - ERROR :   File "C:\Users\557140\AppData\Roaming\Microsoft\AddIns\pyxll-2.1.0-x86-py27\examples\worksheetfuncs.py", line 306
+2014-05-09 08:49:42,128 - ERROR :     @xl_func("datetime[] x: datetime")
+2014-05-09 08:49:42,128 - ERROR :    ^
+2014-05-09 08:49:42,128 - ERROR : IndentationError: unexpected indent
+2014-05-09 08:49:43,055 - WARNING : pydevd failed to import - eclipse debugging won't work
+2014-05-09 08:49:43,055 - WARNING : Check the eclipse path in C:\Users\557140\AppData\Roaming\Microsoft\AddIns\pyxll-2.1.0-x86-py27\examples\tools\eclipse_debug.pyc
+2014-05-09 08:49:43,058 - INFO : callbacks.license_notifier: This copy of PyXLL is for evaluation or non-commercial use only
+2014-05-09 08:49:56,381 - ERROR : log4net:ERROR XmlHierarchyConfigurator: Cannot find Property [add] to set object on [log4net.Repository.Hierarchy.Hierarchy]
+2014-05-09 08:49:57,167 - INFO : 
+------------------------------------------------------------------------------
+  PyXLL 
+
+  Version          2.1.0
+  Buildtime        2014-01-19 18:40
+  Python version   2.7.5.final.0
+  Excel version    14.0
+
+  www.pyxll.com
+------------------------------------------------------------------------------
+
+2014-05-09 08:49:57,170 - ERROR : Error importing 'worksheetfuncs': unexpected indent (worksheetfuncs.py, line 306)
+2014-05-09 08:49:57,170 - ERROR : Traceback (most recent call last):
+2014-05-09 08:49:57,170 - ERROR :   File "pyxll", line 719, in _open
+2014-05-09 08:49:57,171 - ERROR :   File "C:\Users\557140\AppData\Roaming\Microsoft\AddIns\pyxll-2.1.0-x86-py27\examples\worksheetfuncs.py", line 306
+2014-05-09 08:49:57,171 - ERROR :     @xl_func("datetime[] x: datetime")
+2014-05-09 08:49:57,171 - ERROR :    ^
+2014-05-09 08:49:57,171 - ERROR : IndentationError: unexpected indent
+2014-05-09 08:49:57,174 - WARNING : custom1 is already a custom type - overriding
+2014-05-09 08:49:57,174 - WARNING : custom1 is already a custom type - overriding
+2014-05-09 08:49:57,174 - WARNING : custom1 is already a custom type - overridding
+2014-05-09 08:49:57,174 - WARNING : custom2 is already a custom type - overriding
+2014-05-09 08:49:57,174 - WARNING : custom2 is already a custom type - overriding
+2014-05-09 08:49:57,174 - WARNING : custom2 is already a custom type - overridding
+2014-05-09 08:49:57,174 - WARNING : custom3 is already a custom type - overriding
+2014-05-09 08:49:57,174 - WARNING : custom3 is already a custom type - overriding
+2014-05-09 08:49:57,174 - WARNING : custom3 is already a custom type - overridding
+2014-05-09 08:49:57,174 - WARNING : int_list is already a custom type - overriding
+2014-05-09 08:49:57,174 - WARNING : float_list is already a custom type - overriding
+2014-05-09 08:49:57,174 - WARNING : custom1_list is already a custom type - overriding
+2014-05-09 08:49:57,174 - WARNING : custom1_list is already a custom type - overriding
+2014-05-09 08:49:57,174 - WARNING : float_list is already a custom type - overriding
+2014-05-09 08:49:57,174 - WARNING : int_list is already a custom type - overriding
+2014-05-09 08:49:57,180 - WARNING : cached_object is already a custom type - overridding
+2014-05-09 08:49:57,180 - WARNING : cached_object is already a custom type - overriding
+2014-05-09 08:49:57,180 - WARNING : cached_object is already a custom type - overriding
+2014-05-09 08:49:57,184 - WARNING : pydevd failed to import - eclipse debugging won't work
+2014-05-09 08:49:57,184 - WARNING : Check the eclipse path in C:\Users\557140\AppData\Roaming\Microsoft\AddIns\pyxll-2.1.0-x86-py27\examples\tools\eclipse_debug.pyc
+2014-05-09 08:49:57,186 - INFO : callbacks.license_notifier: This copy of PyXLL is for evaluation or non-commercial use only
+2014-05-09 08:49:57,190 - ERROR : Error calling reload callback: global name 'win32api' is not defined
+2014-05-09 08:49:57,190 - ERROR : Traceback (most recent call last):
+2014-05-09 08:49:57,190 - ERROR :   File "pyxll", line 799, in _post_open
+2014-05-09 08:49:57,190 - ERROR :   File "C:\Users\557140\AppData\Roaming\Microsoft\AddIns\pyxll-2.1.0-x86-py27\examples\callbacks.py", line 55, in on_reload
+2014-05-09 08:49:57,209 - ERROR :     if win32api:
+2014-05-09 08:49:57,209 - ERROR : NameError: global name 'win32api' is not defined
+2014-05-09 08:51:37,701 - INFO : callbacks.on_close: PyXLL is closing
+2014-05-09 08:51:43,890 - INFO : 
+------------------------------------------------------------------------------
+  PyXLL 
+
+  Version          2.1.0
+  Buildtime        2014-01-19 18:40
+  Python version   2.7.5.final.0
+  Excel version    14.0
+
+  www.pyxll.com
+------------------------------------------------------------------------------
+
+2014-05-09 08:51:44,042 - WARNING : pydevd failed to import - eclipse debugging won't work
+2014-05-09 08:51:44,042 - WARNING : Check the eclipse path in C:\Users\557140\AppData\Roaming\Microsoft\AddIns\pyxll-2.1.0-x86-py27\examples\tools\eclipse_debug.pyc
+2014-05-09 08:51:44,043 - INFO : callbacks.license_notifier: This copy of PyXLL is for evaluation or non-commercial use only
+2014-05-09 08:51:45,674 - ERROR : log4net:ERROR XmlHierarchyConfigurator: Cannot find Property [add] to set object on [log4net.Repository.Hierarchy.Hierarchy]
+2014-05-09 08:51:46,194 - INFO : 
+------------------------------------------------------------------------------
+  PyXLL 
+
+  Version          2.1.0
+  Buildtime        2014-01-19 18:40
+  Python version   2.7.5.final.0
+  Excel version    14.0
+
+  www.pyxll.com
+------------------------------------------------------------------------------
+
+2014-05-09 08:51:46,200 - WARNING : custom1 is already a custom type - overriding
+2014-05-09 08:51:46,200 - WARNING : custom1 is already a custom type - overriding
+2014-05-09 08:51:46,200 - WARNING : custom1 is already a custom type - overridding
+2014-05-09 08:51:46,200 - WARNING : custom2 is already a custom type - overriding
+2014-05-09 08:51:46,200 - WARNING : custom2 is already a custom type - overriding
+2014-05-09 08:51:46,201 - WARNING : custom2 is already a custom type - overridding
+2014-05-09 08:51:46,201 - WARNING : custom3 is already a custom type - overriding
+2014-05-09 08:51:46,201 - WARNING : custom3 is already a custom type - overriding
+2014-05-09 08:51:46,201 - WARNING : custom3 is already a custom type - overridding
+2014-05-09 08:51:46,201 - WARNING : int_list is already a custom type - overriding
+2014-05-09 08:51:46,201 - WARNING : float_list is already a custom type - overriding
+2014-05-09 08:51:46,203 - WARNING : custom1_list is already a custom type - overriding
+2014-05-09 08:51:46,203 - WARNING : custom1_list is already a custom type - overriding
+2014-05-09 08:51:46,203 - WARNING : float_list is already a custom type - overriding
+2014-05-09 08:51:46,203 - WARNING : int_list is already a custom type - overriding
+2014-05-09 08:51:46,207 - WARNING : cached_object is already a custom type - overridding
+2014-05-09 08:51:46,207 - WARNING : cached_object is already a custom type - overriding
+2014-05-09 08:51:46,207 - WARNING : cached_object is already a custom type - overriding
+2014-05-09 08:51:46,211 - WARNING : pydevd failed to import - eclipse debugging won't work
+2014-05-09 08:51:46,211 - WARNING : Check the eclipse path in C:\Users\557140\AppData\Roaming\Microsoft\AddIns\pyxll-2.1.0-x86-py27\examples\tools\eclipse_debug.pyc
+2014-05-09 08:51:46,213 - INFO : callbacks.license_notifier: This copy of PyXLL is for evaluation or non-commercial use only
+2014-05-09 09:23:28,144 - INFO : 
+------------------------------------------------------------------------------
+  PyXLL 
+
+  Version          2.1.0
+  Buildtime        2014-01-19 18:40
+  Python version   2.7.5.final.0
+  Excel version    14.0
+
+  www.pyxll.com
+------------------------------------------------------------------------------
+
+2014-05-09 09:23:28,237 - WARNING : custom1 is already a custom type - overriding
+2014-05-09 09:23:28,237 - WARNING : custom1 is already a custom type - overriding
+2014-05-09 09:23:28,237 - WARNING : custom1 is already a custom type - overridding
+2014-05-09 09:23:28,237 - WARNING : custom2 is already a custom type - overriding
+2014-05-09 09:23:28,237 - WARNING : custom2 is already a custom type - overriding
+2014-05-09 09:23:28,239 - WARNING : custom2 is already a custom type - overridding
+2014-05-09 09:23:28,239 - WARNING : custom3 is already a custom type - overriding
+2014-05-09 09:23:28,239 - WARNING : custom3 is already a custom type - overriding
+2014-05-09 09:23:28,239 - WARNING : custom3 is already a custom type - overridding
+2014-05-09 09:23:28,239 - WARNING : int_list is already a custom type - overriding
+2014-05-09 09:23:28,239 - WARNING : float_list is already a custom type - overriding
+2014-05-09 09:23:28,239 - WARNING : custom1_list is already a custom type - overriding
+2014-05-09 09:23:28,240 - WARNING : custom1_list is already a custom type - overriding
+2014-05-09 09:23:28,240 - WARNING : float_list is already a custom type - overriding
+2014-05-09 09:23:28,240 - WARNING : int_list is already a custom type - overriding
+2014-05-09 09:23:28,286 - WARNING : cached_object is already a custom type - overridding
+2014-05-09 09:23:28,286 - WARNING : cached_object is already a custom type - overriding
+2014-05-09 09:23:28,286 - WARNING : cached_object is already a custom type - overriding
+2014-05-09 09:23:28,303 - WARNING : pydevd failed to import - eclipse debugging won't work
+2014-05-09 09:23:28,305 - WARNING : Check the eclipse path in C:\Users\557140\AppData\Roaming\Microsoft\AddIns\pyxll-2.1.0-x86-py27\examples\tools\eclipse_debug.pyc
+2014-05-09 09:23:28,306 - INFO : callbacks.license_notifier: This copy of PyXLL is for evaluation or non-commercial use only
+2014-05-09 09:25:07,996 - INFO : callbacks.on_close: PyXLL is closing
+2014-05-09 09:38:13,315 - INFO : 
+------------------------------------------------------------------------------
+  PyXLL 
+
+  Version          2.1.0
+  Buildtime        2014-01-19 18:40
+  Python version   2.7.5.final.0
+  Excel version    14.0
+
+  www.pyxll.com
+------------------------------------------------------------------------------
+
+2014-05-09 09:38:18,388 - WARNING : pydevd failed to import - eclipse debugging won't work
+2014-05-09 09:38:18,388 - WARNING : Check the eclipse path in C:\Users\557140\AppData\Roaming\Microsoft\AddIns\pyxll-2.1.0-x86-py27\examples\tools\eclipse_debug.pyc
+2014-05-09 09:38:18,388 - WARNING : pydevd failed to import - eclipse debugging won't work
+2014-05-09 09:38:18,388 - WARNING : Check the eclipse path in C:\Users\557140\AppData\Roaming\Microsoft\AddIns\pyxll-2.1.0-x86-py27\examples\tools\eclipse_debug.pyc
+2014-05-09 09:38:18,397 - INFO : callbacks.license_notifier: This copy of PyXLL is for evaluation or non-commercial use only
+2014-05-09 09:38:18,398 - INFO : callbacks.license_notifier: This copy of PyXLL is for evaluation or non-commercial use only
+2014-05-09 09:38:22,571 - ERROR : log4net:ERROR XmlHierarchyConfigurator: Cannot find Property [add] to set object on [log4net.Repository.Hierarchy.Hierarchy]
+2014-05-09 09:38:22,584 - ERROR : log4net:ERROR XmlHierarchyConfigurator: Cannot find Property [add] to set object on [log4net.Repository.Hierarchy.Hierarchy]
+2014-05-09 09:38:26,411 - INFO : 
+------------------------------------------------------------------------------
+  PyXLL 
+
+  Version          2.1.0
+  Buildtime        2014-01-19 18:40
+  Python version   2.7.5.final.0
+  Excel version    14.0
+
+  www.pyxll.com
+------------------------------------------------------------------------------
+
+2014-05-09 09:38:26,417 - WARNING : custom1 is already a custom type - overriding
+2014-05-09 09:38:26,417 - WARNING : custom1 is already a custom type - overriding
+2014-05-09 09:38:26,417 - WARNING : custom1 is already a custom type - overridding
+2014-05-09 09:38:26,417 - WARNING : custom2 is already a custom type - overriding
+2014-05-09 09:38:26,417 - WARNING : custom2 is already a custom type - overriding
+2014-05-09 09:38:26,417 - WARNING : custom2 is already a custom type - overridding
+2014-05-09 09:38:26,417 - WARNING : custom3 is already a custom type - overriding
+2014-05-09 09:38:26,417 - WARNING : custom3 is already a custom type - overriding
+2014-05-09 09:38:26,417 - WARNING : custom3 is already a custom type - overridding
+2014-05-09 09:38:26,417 - WARNING : int_list is already a custom type - overriding
+2014-05-09 09:38:26,417 - WARNING : float_list is already a custom type - overriding
+2014-05-09 09:38:26,417 - WARNING : custom1_list is already a custom type - overriding
+2014-05-09 09:38:26,417 - WARNING : custom1_list is already a custom type - overriding
+2014-05-09 09:38:26,417 - WARNING : float_list is already a custom type - overriding
+2014-05-09 09:38:26,417 - WARNING : int_list is already a custom type - overriding
+2014-05-09 09:38:26,423 - WARNING : cached_object is already a custom type - overridding
+2014-05-09 09:38:26,423 - WARNING : cached_object is already a custom type - overriding
+2014-05-09 09:38:26,423 - WARNING : cached_object is already a custom type - overriding
+2014-05-09 09:38:26,427 - WARNING : pydevd failed to import - eclipse debugging won't work
+2014-05-09 09:38:26,427 - WARNING : Check the eclipse path in C:\Users\557140\AppData\Roaming\Microsoft\AddIns\pyxll-2.1.0-x86-py27\examples\tools\eclipse_debug.pyc
+2014-05-09 09:38:26,428 - INFO : callbacks.license_notifier: This copy of PyXLL is for evaluation or non-commercial use only
+2014-05-09 09:38:31,114 - INFO : callbacks.on_close: PyXLL is closing
+2014-05-09 09:38:39,071 - INFO : callbacks.on_close: PyXLL is closing
+2014-05-09 10:48:14,384 - INFO : 
+------------------------------------------------------------------------------
+  PyXLL 
+
+  Version          2.1.0
+  Buildtime        2014-01-19 18:40
+  Python version   2.7.6.final.0
+  Excel version    14.0
+
+  www.pyxll.com
+------------------------------------------------------------------------------
+
+2014-05-09 10:48:14,882 - WARNING : pydevd failed to import - eclipse debugging won't work
+2014-05-09 10:48:14,882 - WARNING : Check the eclipse path in C:\Users\557140\AppData\Roaming\Microsoft\AddIns\pyxll-2.1.0-x86-py27\examples\tools\eclipse_debug.pyc
+2014-05-09 10:48:14,884 - INFO : callbacks.license_notifier: This copy of PyXLL is for evaluation or non-commercial use only
+2014-05-09 10:48:19,698 - ERROR : log4net:ERROR XmlHierarchyConfigurator: Cannot find Property [add] to set object on [log4net.Repository.Hierarchy.Hierarchy]
+2014-05-09 11:15:23,384 - INFO : callbacks.on_close: PyXLL is closing
+2014-05-09 11:15:28,299 - INFO : 
+------------------------------------------------------------------------------
+  PyXLL 
+
+  Version          2.1.0
+  Buildtime        2014-01-19 18:40
+  Python version   2.7.6.final.0
+  Excel version    14.0
+
+  www.pyxll.com
+------------------------------------------------------------------------------
+
+2014-05-09 11:15:28,539 - WARNING : pydevd failed to import - eclipse debugging won't work
+2014-05-09 11:15:28,539 - WARNING : Check the eclipse path in C:\Users\557140\AppData\Roaming\Microsoft\AddIns\pyxll-2.1.0-x86-py27\examples\tools\eclipse_debug.pyc
+2014-05-09 11:15:28,542 - INFO : callbacks.license_notifier: This copy of PyXLL is for evaluation or non-commercial use only
+2014-05-09 11:15:30,266 - ERROR : log4net:ERROR XmlHierarchyConfigurator: Cannot find Property [add] to set object on [log4net.Repository.Hierarchy.Hierarchy]
+2014-05-09 11:15:46,441 - INFO : callbacks.on_close: PyXLL is closing
+2014-05-09 12:22:41,855 - INFO : 
+------------------------------------------------------------------------------
+  PyXLL 
+
+  Version          2.1.0
+  Buildtime        2014-01-19 18:40
+  Python version   2.7.6.final.0
+  Excel version    14.0
+
+  www.pyxll.com
+------------------------------------------------------------------------------
+
+2014-05-09 12:22:42,101 - WARNING : pydevd failed to import - eclipse debugging won't work
+2014-05-09 12:22:42,101 - WARNING : Check the eclipse path in C:\Users\557140\AppData\Roaming\Microsoft\AddIns\pyxll-2.1.0-x86-py27\examples\tools\eclipse_debug.pyc
+2014-05-09 12:22:42,101 - INFO : callbacks.license_notifier: This copy of PyXLL is for evaluation or non-commercial use only
+2014-05-09 13:17:36,526 - INFO : callbacks.on_close: PyXLL is closing
+2014-05-09 13:17:39,387 - INFO : 
+------------------------------------------------------------------------------
+  PyXLL 
+
+  Version          2.1.0
+  Buildtime        2014-01-19 18:40
+  Python version   2.7.6.final.0
+  Excel version    14.0
+
+  www.pyxll.com
+------------------------------------------------------------------------------
+
+2014-05-09 13:17:39,398 - WARNING : custom1 is already a custom type - overriding
+2014-05-09 13:17:39,398 - WARNING : custom1 is already a custom type - overriding
+2014-05-09 13:17:39,398 - WARNING : custom1 is already a custom type - overridding
+2014-05-09 13:17:39,398 - WARNING : custom2 is already a custom type - overriding
+2014-05-09 13:17:39,398 - WARNING : custom2 is already a custom type - overriding
+2014-05-09 13:17:39,398 - WARNING : custom2 is already a custom type - overridding
+2014-05-09 13:17:39,400 - WARNING : custom3 is already a custom type - overriding
+2014-05-09 13:17:39,400 - WARNING : custom3 is already a custom type - overriding
+2014-05-09 13:17:39,400 - WARNING : custom3 is already a custom type - overridding
+2014-05-09 13:17:39,401 - WARNING : int_list is already a custom type - overriding
+2014-05-09 13:17:39,401 - WARNING : float_list is already a custom type - overriding
+2014-05-09 13:17:39,401 - WARNING : custom1_list is already a custom type - overriding
+2014-05-09 13:17:39,401 - WARNING : custom1_list is already a custom type - overriding
+2014-05-09 13:17:39,401 - WARNING : float_list is already a custom type - overriding
+2014-05-09 13:17:39,401 - WARNING : int_list is already a custom type - overriding
+2014-05-09 13:17:39,426 - WARNING : cached_object is already a custom type - overridding
+2014-05-09 13:17:39,426 - WARNING : cached_object is already a custom type - overriding
+2014-05-09 13:17:39,426 - WARNING : cached_object is already a custom type - overriding
+2014-05-09 13:17:39,430 - WARNING : pydevd failed to import - eclipse debugging won't work
+2014-05-09 13:17:39,430 - WARNING : Check the eclipse path in C:\Users\557140\AppData\Roaming\Microsoft\AddIns\pyxll-2.1.0-x86-py27\examples\tools\eclipse_debug.pyc
+2014-05-09 13:17:39,433 - ERROR : Error importing 'scipy': name 'xl_func' is not defined
+2014-05-09 13:17:39,433 - ERROR : Traceback (most recent call last):
+2014-05-09 13:17:39,433 - ERROR :   File "pyxll", line 719, in _open
+2014-05-09 13:17:39,434 - ERROR :   File "C:\Users\557140\AppData\Roaming\Microsoft\AddIns\pyxll-2.1.0-x86-py27\examples\scipy.py", line 3, in <module>
+2014-05-09 13:17:39,434 - ERROR :     @xl_func("numpy_array x, numpy_array y: numpy_array")
+2014-05-09 13:17:39,434 - ERROR : NameError: name 'xl_func' is not defined
+2014-05-09 13:17:39,434 - INFO : callbacks.license_notifier: This copy of PyXLL is for evaluation or non-commercial use only
+2014-05-09 13:17:39,440 - ERROR : Error calling reload callback: global name 'win32api' is not defined
+2014-05-09 13:17:39,440 - ERROR : Traceback (most recent call last):
+2014-05-09 13:17:39,440 - ERROR :   File "pyxll", line 799, in _post_open
+2014-05-09 13:17:39,440 - ERROR :   File "C:\Users\557140\AppData\Roaming\Microsoft\AddIns\pyxll-2.1.0-x86-py27\examples\callbacks.py", line 55, in on_reload
+2014-05-09 13:17:39,453 - ERROR :     if win32api:
+2014-05-09 13:17:39,453 - ERROR : NameError: global name 'win32api' is not defined
+2014-05-09 13:17:48,249 - ERROR : Exception in thread Thread-4:
+2014-05-09 13:17:48,249 - ERROR : Traceback (most recent call last):
+2014-05-09 13:17:48,249 - ERROR :   File "C:\Program Files (x86)\Anaconda\Lib\threading.py", line 810, in __bootstrap_inner
+2014-05-09 13:17:48,249 - ERROR :     self.run()
+2014-05-09 13:17:48,249 - ERROR :   File "C:\Program Files (x86)\Anaconda\Lib\threading.py", line 763, in run
+2014-05-09 13:17:48,250 - ERROR :     self.__target(*self.__args, **self.__kwargs)
+2014-05-09 13:17:48,250 - ERROR :   File "C:\Users\557140\AppData\Roaming\Microsoft\AddIns\pyxll-2.1.0-x86-py27\examples\asyncfunc.py", line 43, in thread_func
+2014-05-09 13:17:48,250 - ERROR :     xlAsyncReturn(handle, result)
+2014-05-09 13:17:48,250 - ERROR : RuntimeError: error calling xlAsyncReturn (256)
+2014-05-09 13:17:48,250 - ERROR : 
+2014-05-09 13:17:48,292 - ERROR : Exception in thread Thread-2:
+2014-05-09 13:17:48,292 - ERROR : Traceback (most recent call last):
+2014-05-09 13:17:48,292 - ERROR :   File "C:\Program Files (x86)\Anaconda\Lib\threading.py", line 810, in __bootstrap_inner
+2014-05-09 13:17:48,292 - ERROR :     self.run()
+2014-05-09 13:17:48,292 - ERROR :   File "C:\Program Files (x86)\Anaconda\Lib\threading.py", line 763, in run
+2014-05-09 13:17:48,292 - ERROR :     self.__target(*self.__args, **self.__kwargs)
+2014-05-09 13:17:48,292 - ERROR :   File "C:\Users\557140\AppData\Roaming\Microsoft\AddIns\pyxll-2.1.0-x86-py27\examples\asyncfunc.py", line 43, in thread_func
+2014-05-09 13:17:48,292 - ERROR :     xlAsyncReturn(handle, result)
+2014-05-09 13:17:48,292 - ERROR : RuntimeError: error calling xlAsyncReturn (256)
+2014-05-09 13:17:48,292 - ERROR : 
+2014-05-09 13:18:47,523 - INFO : callbacks.on_close: PyXLL is closing
+2014-05-09 13:18:49,747 - INFO : 
+------------------------------------------------------------------------------
+  PyXLL 
+
+  Version          2.1.0
+  Buildtime        2014-01-19 18:40
+  Python version   2.7.6.final.0
+  Excel version    14.0
+
+  www.pyxll.com
+------------------------------------------------------------------------------
+
+2014-05-09 13:18:49,753 - WARNING : custom1 is already a custom type - overriding
+2014-05-09 13:18:49,753 - WARNING : custom1 is already a custom type - overriding
+2014-05-09 13:18:49,753 - WARNING : custom1 is already a custom type - overridding
+2014-05-09 13:18:49,753 - WARNING : custom2 is already a custom type - overriding
+2014-05-09 13:18:49,753 - WARNING : custom2 is already a custom type - overriding
+2014-05-09 13:18:49,753 - WARNING : custom2 is already a custom type - overridding
+2014-05-09 13:18:49,753 - WARNING : custom3 is already a custom type - overriding
+2014-05-09 13:18:49,753 - WARNING : custom3 is already a custom type - overriding
+2014-05-09 13:18:49,753 - WARNING : custom3 is already a custom type - overridding
+2014-05-09 13:18:49,753 - WARNING : int_list is already a custom type - overriding
+2014-05-09 13:18:49,755 - WARNING : float_list is already a custom type - overriding
+2014-05-09 13:18:49,755 - WARNING : custom1_list is already a custom type - overriding
+2014-05-09 13:18:49,755 - WARNING : custom1_list is already a custom type - overriding
+2014-05-09 13:18:49,755 - WARNING : float_list is already a custom type - overriding
+2014-05-09 13:18:49,755 - WARNING : int_list is already a custom type - overriding
+2014-05-09 13:18:49,759 - WARNING : cached_object is already a custom type - overridding
+2014-05-09 13:18:49,759 - WARNING : cached_object is already a custom type - overriding
+2014-05-09 13:18:49,759 - WARNING : cached_object is already a custom type - overriding
+2014-05-09 13:18:49,763 - WARNING : pydevd failed to import - eclipse debugging won't work
+2014-05-09 13:18:49,763 - WARNING : Check the eclipse path in C:\Users\557140\AppData\Roaming\Microsoft\AddIns\pyxll-2.1.0-x86-py27\examples\tools\eclipse_debug.pyc
+2014-05-09 13:18:49,766 - INFO : callbacks.license_notifier: This copy of PyXLL is for evaluation or non-commercial use only
+2014-05-09 13:18:59,596 - ERROR : Error calling function scipy_linregress
+2014-05-09 13:18:59,596 - ERROR : Traceback (most recent call last):
+2014-05-09 13:18:59,596 - ERROR :   File "pyxll", line 1466, in _xl_func_wrapper
+2014-05-09 13:18:59,598 - ERROR :   File "pyxll", line 1457, in _xl_func_wrapper
+2014-05-09 13:18:59,598 - ERROR :   File "C:\Users\557140\AppData\Roaming\Microsoft\AddIns\pyxll-2.1.0-x86-py27\examples\scipy.py", line 11, in scipy_linregress
+2014-05-09 13:18:59,598 - ERROR :     slope, intercept, r_value, p_value, std_err = stats.linregress(x,y)
+2014-05-09 13:18:59,598 - ERROR : NameError: global name 'stats' is not defined
+2014-05-09 13:19:15,980 - ERROR : Error calling function scipy_linregress
+2014-05-09 13:19:15,980 - ERROR : Traceback (most recent call last):
+2014-05-09 13:19:15,980 - ERROR :   File "pyxll", line 1466, in _xl_func_wrapper
+2014-05-09 13:19:15,982 - ERROR :   File "pyxll", line 1457, in _xl_func_wrapper
+2014-05-09 13:19:15,982 - ERROR :   File "C:\Users\557140\AppData\Roaming\Microsoft\AddIns\pyxll-2.1.0-x86-py27\examples\scipy.py", line 11, in scipy_linregress
+2014-05-09 13:19:15,983 - ERROR :     slope, intercept, r_value, p_value, std_err = stats.linregress(x,y)
+2014-05-09 13:19:15,983 - ERROR : NameError: global name 'stats' is not defined
+2014-05-09 13:19:20,984 - ERROR : Error calling function scipy_linregress
+2014-05-09 13:19:20,984 - ERROR : Traceback (most recent call last):
+2014-05-09 13:19:20,984 - ERROR :   File "pyxll", line 1466, in _xl_func_wrapper
+2014-05-09 13:19:20,986 - ERROR :   File "pyxll", line 1457, in _xl_func_wrapper
+2014-05-09 13:19:20,986 - ERROR :   File "C:\Users\557140\AppData\Roaming\Microsoft\AddIns\pyxll-2.1.0-x86-py27\examples\scipy.py", line 11, in scipy_linregress
+2014-05-09 13:19:20,986 - ERROR :     slope, intercept, r_value, p_value, std_err = stats.linregress(x,y)
+2014-05-09 13:19:20,986 - ERROR : NameError: global name 'stats' is not defined
+2014-05-09 13:19:24,299 - ERROR : Error calling function scipy_linregress
+2014-05-09 13:19:24,299 - ERROR : Traceback (most recent call last):
+2014-05-09 13:19:24,299 - ERROR :   File "pyxll", line 1466, in _xl_func_wrapper
+2014-05-09 13:19:24,299 - ERROR :   File "pyxll", line 1457, in _xl_func_wrapper
+2014-05-09 13:19:24,301 - ERROR :   File "C:\Users\557140\AppData\Roaming\Microsoft\AddIns\pyxll-2.1.0-x86-py27\examples\scipy.py", line 11, in scipy_linregress
+2014-05-09 13:19:24,301 - ERROR :     slope, intercept, r_value, p_value, std_err = stats.linregress(x,y)
+2014-05-09 13:19:24,301 - ERROR : NameError: global name 'stats' is not defined
+2014-05-09 13:19:36,263 - INFO : callbacks.on_close: PyXLL is closing
+2014-05-09 13:19:38,934 - INFO : 
+------------------------------------------------------------------------------
+  PyXLL 
+
+  Version          2.1.0
+  Buildtime        2014-01-19 18:40
+  Python version   2.7.6.final.0
+  Excel version    14.0
+
+  www.pyxll.com
+------------------------------------------------------------------------------
+
+2014-05-09 13:19:38,937 - WARNING : custom1 is already a custom type - overriding
+2014-05-09 13:19:38,938 - WARNING : custom1 is already a custom type - overriding
+2014-05-09 13:19:38,938 - WARNING : custom1 is already a custom type - overridding
+2014-05-09 13:19:38,938 - WARNING : custom2 is already a custom type - overriding
+2014-05-09 13:19:38,938 - WARNING : custom2 is already a custom type - overriding
+2014-05-09 13:19:38,938 - WARNING : custom2 is already a custom type - overridding
+2014-05-09 13:19:38,938 - WARNING : custom3 is already a custom type - overriding
+2014-05-09 13:19:38,938 - WARNING : custom3 is already a custom type - overriding
+2014-05-09 13:19:38,938 - WARNING : custom3 is already a custom type - overridding
+2014-05-09 13:19:38,938 - WARNING : int_list is already a custom type - overriding
+2014-05-09 13:19:38,938 - WARNING : float_list is already a custom type - overriding
+2014-05-09 13:19:38,940 - WARNING : custom1_list is already a custom type - overriding
+2014-05-09 13:19:38,940 - WARNING : custom1_list is already a custom type - overriding
+2014-05-09 13:19:38,940 - WARNING : float_list is already a custom type - overriding
+2014-05-09 13:19:38,940 - WARNING : int_list is already a custom type - overriding
+2014-05-09 13:19:38,944 - WARNING : cached_object is already a custom type - overridding
+2014-05-09 13:19:38,944 - WARNING : cached_object is already a custom type - overriding
+2014-05-09 13:19:38,944 - WARNING : cached_object is already a custom type - overriding
+2014-05-09 13:19:38,948 - WARNING : pydevd failed to import - eclipse debugging won't work
+2014-05-09 13:19:38,948 - WARNING : Check the eclipse path in C:\Users\557140\AppData\Roaming\Microsoft\AddIns\pyxll-2.1.0-x86-py27\examples\tools\eclipse_debug.pyc
+2014-05-09 13:19:38,951 - INFO : callbacks.license_notifier: This copy of PyXLL is for evaluation or non-commercial use only
+2014-05-09 13:19:42,671 - ERROR : Error calling function scipy_linregress
+2014-05-09 13:19:42,671 - ERROR : Traceback (most recent call last):
+2014-05-09 13:19:42,671 - ERROR :   File "pyxll", line 1466, in _xl_func_wrapper
+2014-05-09 13:19:42,673 - ERROR :   File "pyxll", line 1457, in _xl_func_wrapper
+2014-05-09 13:19:42,674 - ERROR :   File "C:\Users\557140\AppData\Roaming\Microsoft\AddIns\pyxll-2.1.0-x86-py27\examples\scipy.py", line 11, in scipy_linregress
+2014-05-09 13:19:42,674 - ERROR :     slope, intercept, r_value, p_value, std_err = stats.linregress(x,y)
+2014-05-09 13:19:42,674 - ERROR : NameError: global name 'stats' is not defined
+2014-05-09 14:00:38,467 - INFO : callbacks.on_close: PyXLL is closing
+2014-05-09 14:00:41,342 - INFO : 
+------------------------------------------------------------------------------
+  PyXLL 
+
+  Version          2.1.0
+  Buildtime        2014-01-19 18:40
+  Python version   2.7.6.final.0
+  Excel version    14.0
+
+  www.pyxll.com
+------------------------------------------------------------------------------
+
+2014-05-09 14:00:41,346 - WARNING : custom1 is already a custom type - overriding
+2014-05-09 14:00:41,346 - WARNING : custom1 is already a custom type - overriding
+2014-05-09 14:00:41,346 - WARNING : custom1 is already a custom type - overridding
+2014-05-09 14:00:41,348 - WARNING : custom2 is already a custom type - overriding
+2014-05-09 14:00:41,348 - WARNING : custom2 is already a custom type - overriding
+2014-05-09 14:00:41,348 - WARNING : custom2 is already a custom type - overridding
+2014-05-09 14:00:41,348 - WARNING : custom3 is already a custom type - overriding
+2014-05-09 14:00:41,348 - WARNING : custom3 is already a custom type - overriding
+2014-05-09 14:00:41,348 - WARNING : custom3 is already a custom type - overridding
+2014-05-09 14:00:41,348 - WARNING : int_list is already a custom type - overriding
+2014-05-09 14:00:41,348 - WARNING : float_list is already a custom type - overriding
+2014-05-09 14:00:41,348 - WARNING : custom1_list is already a custom type - overriding
+2014-05-09 14:00:41,348 - WARNING : custom1_list is already a custom type - overriding
+2014-05-09 14:00:41,348 - WARNING : float_list is already a custom type - overriding
+2014-05-09 14:00:41,348 - WARNING : int_list is already a custom type - overriding
+2014-05-09 14:00:41,352 - WARNING : cached_object is already a custom type - overridding
+2014-05-09 14:00:41,352 - WARNING : cached_object is already a custom type - overriding
+2014-05-09 14:00:41,352 - WARNING : cached_object is already a custom type - overriding
+2014-05-09 14:00:41,358 - WARNING : pydevd failed to import - eclipse debugging won't work
+2014-05-09 14:00:41,358 - WARNING : Check the eclipse path in C:\Users\557140\AppData\Roaming\Microsoft\AddIns\pyxll-2.1.0-x86-py27\examples\tools\eclipse_debug.pyc
+2014-05-09 14:00:41,361 - INFO : callbacks.license_notifier: This copy of PyXLL is for evaluation or non-commercial use only
+2014-05-09 14:00:51,312 - ERROR : Error calling function scipy_linregress
+2014-05-09 14:00:51,313 - ERROR : Traceback (most recent call last):
+2014-05-09 14:00:51,313 - ERROR :   File "pyxll", line 1457, in _xl_func_wrapper
+2014-05-09 14:00:51,315 - ERROR :   File "C:\Users\557140\AppData\Roaming\Microsoft\AddIns\pyxll-2.1.0-x86-py27\examples\scipy.py", line 11, in scipy_linregress
+2014-05-09 14:00:51,315 - ERROR :     slope, intercept, r_value, p_value, std_err = stats.linregress(x,y)
+2014-05-09 14:00:51,315 - ERROR : NameError: global name 'stats' is not defined
+2014-05-09 14:01:14,506 - ERROR : Error calling function scipy_linregress
+2014-05-09 14:01:14,507 - ERROR : Traceback (most recent call last):
+2014-05-09 14:01:14,507 - ERROR :   File "pyxll", line 1457, in _xl_func_wrapper
+2014-05-09 14:01:14,509 - ERROR :   File "C:\Users\557140\AppData\Roaming\Microsoft\AddIns\pyxll-2.1.0-x86-py27\examples\scipy.py", line 11, in scipy_linregress
+2014-05-09 14:01:14,509 - ERROR :     slope, intercept, r_value, p_value, std_err = stats.linregress(x,y)
+2014-05-09 14:01:14,509 - ERROR : NameError: global name 'stats' is not defined
+2014-05-09 14:01:17,361 - ERROR : Error calling function scipy_linregress
+2014-05-09 14:01:17,361 - ERROR : Traceback (most recent call last):
+2014-05-09 14:01:17,361 - ERROR :   File "pyxll", line 1457, in _xl_func_wrapper
+2014-05-09 14:01:17,362 - ERROR :   File "C:\Users\557140\AppData\Roaming\Microsoft\AddIns\pyxll-2.1.0-x86-py27\examples\scipy.py", line 11, in scipy_linregress
+2014-05-09 14:01:17,362 - ERROR :     slope, intercept, r_value, p_value, std_err = stats.linregress(x,y)
+2014-05-09 14:01:17,362 - ERROR : NameError: global name 'stats' is not defined
+2014-05-09 14:01:19,726 - ERROR : Error calling function scipy_linregress
+2014-05-09 14:01:19,726 - ERROR : Traceback (most recent call last):
+2014-05-09 14:01:19,726 - ERROR :   File "pyxll", line 1457, in _xl_func_wrapper
+2014-05-09 14:01:19,727 - ERROR :   File "C:\Users\557140\AppData\Roaming\Microsoft\AddIns\pyxll-2.1.0-x86-py27\examples\scipy.py", line 11, in scipy_linregress
+2014-05-09 14:01:19,729 - ERROR :     slope, intercept, r_value, p_value, std_err = stats.linregress(x,y)
+2014-05-09 14:01:19,729 - ERROR : NameError: global name 'stats' is not defined
+2014-05-09 14:02:07,315 - INFO : callbacks.on_close: PyXLL is closing
+2014-05-09 14:02:09,960 - INFO : 
+------------------------------------------------------------------------------
+  PyXLL 
+
+  Version          2.1.0
+  Buildtime        2014-01-19 18:40
+  Python version   2.7.6.final.0
+  Excel version    14.0
+
+  www.pyxll.com
+------------------------------------------------------------------------------
+
+2014-05-09 14:02:09,963 - WARNING : custom1 is already a custom type - overriding
+2014-05-09 14:02:09,963 - WARNING : custom1 is already a custom type - overriding
+2014-05-09 14:02:09,964 - WARNING : custom1 is already a custom type - overridding
+2014-05-09 14:02:09,964 - WARNING : custom2 is already a custom type - overriding
+2014-05-09 14:02:09,966 - WARNING : custom2 is already a custom type - overriding
+2014-05-09 14:02:09,966 - WARNING : custom2 is already a custom type - overridding
+2014-05-09 14:02:09,966 - WARNING : custom3 is already a custom type - overriding
+2014-05-09 14:02:09,966 - WARNING : custom3 is already a custom type - overriding
+2014-05-09 14:02:09,966 - WARNING : custom3 is already a custom type - overridding
+2014-05-09 14:02:09,966 - WARNING : int_list is already a custom type - overriding
+2014-05-09 14:02:09,966 - WARNING : float_list is already a custom type - overriding
+2014-05-09 14:02:09,966 - WARNING : custom1_list is already a custom type - overriding
+2014-05-09 14:02:09,966 - WARNING : custom1_list is already a custom type - overriding
+2014-05-09 14:02:09,966 - WARNING : float_list is already a custom type - overriding
+2014-05-09 14:02:09,966 - WARNING : int_list is already a custom type - overriding
+2014-05-09 14:02:09,970 - WARNING : cached_object is already a custom type - overridding
+2014-05-09 14:02:09,970 - WARNING : cached_object is already a custom type - overriding
+2014-05-09 14:02:09,970 - WARNING : cached_object is already a custom type - overriding
+2014-05-09 14:02:09,974 - WARNING : pydevd failed to import - eclipse debugging won't work
+2014-05-09 14:02:09,976 - WARNING : Check the eclipse path in C:\Users\557140\AppData\Roaming\Microsoft\AddIns\pyxll-2.1.0-x86-py27\examples\tools\eclipse_debug.pyc
+2014-05-09 14:02:09,977 - ERROR : Error importing 'scipy': cannot import name stats
+2014-05-09 14:02:09,979 - ERROR : Traceback (most recent call last):
+2014-05-09 14:02:09,979 - ERROR :   File "pyxll", line 717, in _open
+2014-05-09 14:02:09,979 - ERROR :   File "C:\Users\557140\AppData\Roaming\Microsoft\AddIns\pyxll-2.1.0-x86-py27\examples\scipy.py", line 5, in <module>
+2014-05-09 14:02:09,980 - ERROR :     from scipy import stats
+2014-05-09 14:02:09,980 - ERROR : ImportError: cannot import name stats
+2014-05-09 14:02:09,980 - INFO : callbacks.license_notifier: This copy of PyXLL is for evaluation or non-commercial use only
+2014-05-09 14:02:09,984 - ERROR : Error calling reload callback: global name 'win32api' is not defined
+2014-05-09 14:02:09,984 - ERROR : Traceback (most recent call last):
+2014-05-09 14:02:09,984 - ERROR :   File "pyxll", line 799, in _post_open
+2014-05-09 14:02:09,986 - ERROR :   File "C:\Users\557140\AppData\Roaming\Microsoft\AddIns\pyxll-2.1.0-x86-py27\examples\callbacks.py", line 55, in on_reload
+2014-05-09 14:02:09,986 - ERROR :     if win32api:
+2014-05-09 14:02:09,986 - ERROR : NameError: global name 'win32api' is not defined
+2014-05-09 14:02:53,667 - INFO : callbacks.on_close: PyXLL is closing
+2014-05-09 14:02:56,138 - INFO : 
+------------------------------------------------------------------------------
+  PyXLL 
+
+  Version          2.1.0
+  Buildtime        2014-01-19 18:40
+  Python version   2.7.6.final.0
+  Excel version    14.0
+
+  www.pyxll.com
+------------------------------------------------------------------------------
+
+2014-05-09 14:02:56,142 - WARNING : custom1 is already a custom type - overriding
+2014-05-09 14:02:56,142 - WARNING : custom1 is already a custom type - overriding
+2014-05-09 14:02:56,144 - WARNING : custom1 is already a custom type - overridding
+2014-05-09 14:02:56,144 - WARNING : custom2 is already a custom type - overriding
+2014-05-09 14:02:56,144 - WARNING : custom2 is already a custom type - overriding
+2014-05-09 14:02:56,144 - WARNING : custom2 is already a custom type - overridding
+2014-05-09 14:02:56,144 - WARNING : custom3 is already a custom type - overriding
+2014-05-09 14:02:56,144 - WARNING : custom3 is already a custom type - overriding
+2014-05-09 14:02:56,144 - WARNING : custom3 is already a custom type - overridding
+2014-05-09 14:02:56,144 - WARNING : int_list is already a custom type - overriding
+2014-05-09 14:02:56,144 - WARNING : float_list is already a custom type - overriding
+2014-05-09 14:02:56,144 - WARNING : custom1_list is already a custom type - overriding
+2014-05-09 14:02:56,144 - WARNING : custom1_list is already a custom type - overriding
+2014-05-09 14:02:56,144 - WARNING : float_list is already a custom type - overriding
+2014-05-09 14:02:56,144 - WARNING : int_list is already a custom type - overriding
+2014-05-09 14:02:56,148 - WARNING : cached_object is already a custom type - overridding
+2014-05-09 14:02:56,148 - WARNING : cached_object is already a custom type - overriding
+2014-05-09 14:02:56,148 - WARNING : cached_object is already a custom type - overriding
+2014-05-09 14:02:56,153 - WARNING : pydevd failed to import - eclipse debugging won't work
+2014-05-09 14:02:56,154 - WARNING : Check the eclipse path in C:\Users\557140\AppData\Roaming\Microsoft\AddIns\pyxll-2.1.0-x86-py27\examples\tools\eclipse_debug.pyc
+2014-05-09 14:02:56,157 - ERROR : Error importing 'scipy': cannot import name stats
+2014-05-09 14:02:56,157 - ERROR : Traceback (most recent call last):
+2014-05-09 14:02:56,157 - ERROR :   File "pyxll", line 717, in _open
+2014-05-09 14:02:56,157 - ERROR :   File "C:\Users\557140\AppData\Roaming\Microsoft\AddIns\pyxll-2.1.0-x86-py27\examples\scipy.py", line 5, in <module>
+2014-05-09 14:02:56,157 - ERROR :     from scipy import stats
+2014-05-09 14:02:56,157 - ERROR : ImportError: cannot import name stats
+2014-05-09 14:02:56,157 - INFO : callbacks.license_notifier: This copy of PyXLL is for evaluation or non-commercial use only
+2014-05-09 14:02:56,163 - ERROR : Error calling reload callback: global name 'win32api' is not defined
+2014-05-09 14:02:56,163 - ERROR : Traceback (most recent call last):
+2014-05-09 14:02:56,163 - ERROR :   File "pyxll", line 799, in _post_open
+2014-05-09 14:02:56,164 - ERROR :   File "C:\Users\557140\AppData\Roaming\Microsoft\AddIns\pyxll-2.1.0-x86-py27\examples\callbacks.py", line 55, in on_reload
+2014-05-09 14:02:56,164 - ERROR :     if win32api:
+2014-05-09 14:02:56,164 - ERROR : NameError: global name 'win32api' is not defined
+2014-05-09 14:14:26,270 - INFO : callbacks.on_close: PyXLL is closing
+2014-05-09 14:14:29,697 - INFO : 
+------------------------------------------------------------------------------
+  PyXLL 
+
+  Version          2.1.0
+  Buildtime        2014-01-19 18:40
+  Python version   2.7.6.final.0
+  Excel version    14.0
+
+  www.pyxll.com
+------------------------------------------------------------------------------
+
+2014-05-09 14:14:29,700 - WARNING : custom1 is already a custom type - overriding
+2014-05-09 14:14:29,700 - WARNING : custom1 is already a custom type - overriding
+2014-05-09 14:14:29,700 - WARNING : custom1 is already a custom type - overridding
+2014-05-09 14:14:29,700 - WARNING : custom2 is already a custom type - overriding
+2014-05-09 14:14:29,700 - WARNING : custom2 is already a custom type - overriding
+2014-05-09 14:14:29,700 - WARNING : custom2 is already a custom type - overridding
+2014-05-09 14:14:29,700 - WARNING : custom3 is already a custom type - overriding
+2014-05-09 14:14:29,701 - WARNING : custom3 is already a custom type - overriding
+2014-05-09 14:14:29,701 - WARNING : custom3 is already a custom type - overridding
+2014-05-09 14:14:29,701 - WARNING : int_list is already a custom type - overriding
+2014-05-09 14:14:29,701 - WARNING : float_list is already a custom type - overriding
+2014-05-09 14:14:29,701 - WARNING : custom1_list is already a custom type - overriding
+2014-05-09 14:14:29,701 - WARNING : custom1_list is already a custom type - overriding
+2014-05-09 14:14:29,701 - WARNING : float_list is already a custom type - overriding
+2014-05-09 14:14:29,701 - WARNING : int_list is already a custom type - overriding
+2014-05-09 14:14:29,707 - WARNING : cached_object is already a custom type - overridding
+2014-05-09 14:14:29,707 - WARNING : cached_object is already a custom type - overriding
+2014-05-09 14:14:29,707 - WARNING : cached_object is already a custom type - overriding
+2014-05-09 14:14:29,711 - WARNING : pydevd failed to import - eclipse debugging won't work
+2014-05-09 14:14:29,713 - WARNING : Check the eclipse path in C:\Users\557140\AppData\Roaming\Microsoft\AddIns\pyxll-2.1.0-x86-py27\examples\tools\eclipse_debug.pyc
+2014-05-09 14:14:29,714 - ERROR : Error importing 'scipy': cannot import name stats
+2014-05-09 14:14:29,714 - ERROR : Traceback (most recent call last):
+2014-05-09 14:14:29,714 - ERROR :   File "pyxll", line 717, in _open
+2014-05-09 14:14:29,714 - ERROR :   File "C:\Users\557140\AppData\Roaming\Microsoft\AddIns\pyxll-2.1.0-x86-py27\examples\scipy.py", line 5, in <module>
+2014-05-09 14:14:29,716 - ERROR :     from scipy import stats
+2014-05-09 14:14:29,716 - ERROR : ImportError: cannot import name stats
+2014-05-09 14:14:29,716 - INFO : callbacks.license_notifier: This copy of PyXLL is for evaluation or non-commercial use only
+2014-05-09 14:14:29,720 - ERROR : Error calling reload callback: global name 'win32api' is not defined
+2014-05-09 14:14:29,720 - ERROR : Traceback (most recent call last):
+2014-05-09 14:14:29,720 - ERROR :   File "pyxll", line 799, in _post_open
+2014-05-09 14:14:29,721 - ERROR :   File "C:\Users\557140\AppData\Roaming\Microsoft\AddIns\pyxll-2.1.0-x86-py27\examples\callbacks.py", line 55, in on_reload
+2014-05-09 14:14:29,721 - ERROR :     if win32api:
+2014-05-09 14:14:29,721 - ERROR : NameError: global name 'win32api' is not defined
+2014-05-09 14:15:31,799 - ERROR : Traceback (most recent call last):
+2014-05-09 14:15:31,799 - ERROR :   File "pyxll", line 2311, in run
+2014-05-09 14:15:31,799 - ERROR :   File "C:\Users\557140\AppData\Roaming\Microsoft\AddIns\pyxll-2.1.0-x86-py27\examples\automation.py", line 170, in update_func
+2014-05-09 14:15:31,801 - ERROR :     range.Value = value
+2014-05-09 14:15:31,801 - ERROR :   File "C:\Program Files (x86)\Anaconda\lib\site-packages\win32com\client\__init__.py", line 474, in __setattr__
+2014-05-09 14:15:31,802 - ERROR :     self._oleobj_.Invoke(*(args + (value,) + defArgs))
+2014-05-09 14:15:31,802 - ERROR : com_error: (-2147352567, 'Exception occurred.', (0, None, None, None, 0, -2146777998), None)
+2014-05-09 14:18:39,673 - INFO : 
+------------------------------------------------------------------------------
+  PyXLL 
+
+  Version          2.1.0
+  Buildtime        2014-01-19 18:40
+  Python version   2.7.6.final.0
+  Excel version    14.0
+
+  www.pyxll.com
+------------------------------------------------------------------------------
+
+2014-05-09 14:18:39,677 - WARNING : custom1 is already a custom type - overriding
+2014-05-09 14:18:39,677 - WARNING : custom1 is already a custom type - overriding
+2014-05-09 14:18:39,677 - WARNING : custom1 is already a custom type - overridding
+2014-05-09 14:18:39,677 - WARNING : custom2 is already a custom type - overriding
+2014-05-09 14:18:39,677 - WARNING : custom2 is already a custom type - overriding
+2014-05-09 14:18:39,677 - WARNING : custom2 is already a custom type - overridding
+2014-05-09 14:18:39,677 - WARNING : custom3 is already a custom type - overriding
+2014-05-09 14:18:39,678 - WARNING : custom3 is already a custom type - overriding
+2014-05-09 14:18:39,678 - WARNING : custom3 is already a custom type - overridding
+2014-05-09 14:18:39,678 - WARNING : int_list is already a custom type - overriding
+2014-05-09 14:18:39,678 - WARNING : float_list is already a custom type - overriding
+2014-05-09 14:18:39,678 - WARNING : custom1_list is already a custom type - overriding
+2014-05-09 14:18:39,678 - WARNING : custom1_list is already a custom type - overriding
+2014-05-09 14:18:39,678 - WARNING : float_list is already a custom type - overriding
+2014-05-09 14:18:39,678 - WARNING : int_list is already a custom type - overriding
+2014-05-09 14:18:39,684 - WARNING : cached_object is already a custom type - overridding
+2014-05-09 14:18:39,684 - WARNING : cached_object is already a custom type - overriding
+2014-05-09 14:18:39,684 - WARNING : cached_object is already a custom type - overriding
+2014-05-09 14:18:39,690 - WARNING : pydevd failed to import - eclipse debugging won't work
+2014-05-09 14:18:39,690 - WARNING : Check the eclipse path in C:\Users\557140\AppData\Roaming\Microsoft\AddIns\pyxll-2.1.0-x86-py27\examples\tools\eclipse_debug.pyc
+2014-05-09 14:18:39,693 - INFO : callbacks.license_notifier: This copy of PyXLL is for evaluation or non-commercial use only
+2014-05-09 14:18:40,660 - ERROR : Error calling function scipy_linregress
+2014-05-09 14:18:40,660 - ERROR : Traceback (most recent call last):
+2014-05-09 14:18:40,660 - ERROR :   File "pyxll", line 1457, in _xl_func_wrapper
+2014-05-09 14:18:40,661 - ERROR :   File "C:\Users\557140\AppData\Roaming\Microsoft\AddIns\pyxll-2.1.0-x86-py27\examples\scipy.py", line 11, in scipy_linregress
+2014-05-09 14:18:40,661 - ERROR :     slope, intercept, r_value, p_value, std_err = stats.linregress(x)
+2014-05-09 14:18:40,661 - ERROR : NameError: global name 'stats' is not defined
+2014-05-09 14:20:02,512 - INFO : 
+------------------------------------------------------------------------------
+  PyXLL 
+
+  Version          2.1.0
+  Buildtime        2014-01-19 18:40
+  Python version   2.7.6.final.0
+  Excel version    14.0
+
+  www.pyxll.com
+------------------------------------------------------------------------------
+
+2014-05-09 14:20:02,516 - WARNING : custom1 is already a custom type - overriding
+2014-05-09 14:20:02,516 - WARNING : custom1 is already a custom type - overriding
+2014-05-09 14:20:02,516 - WARNING : custom1 is already a custom type - overridding
+2014-05-09 14:20:02,516 - WARNING : custom2 is already a custom type - overriding
+2014-05-09 14:20:02,516 - WARNING : custom2 is already a custom type - overriding
+2014-05-09 14:20:02,516 - WARNING : custom2 is already a custom type - overridding
+2014-05-09 14:20:02,516 - WARNING : custom3 is already a custom type - overriding
+2014-05-09 14:20:02,516 - WARNING : custom3 is already a custom type - overriding
+2014-05-09 14:20:02,516 - WARNING : custom3 is already a custom type - overridding
+2014-05-09 14:20:02,516 - WARNING : int_list is already a custom type - overriding
+2014-05-09 14:20:02,516 - WARNING : float_list is already a custom type - overriding
+2014-05-09 14:20:02,516 - WARNING : custom1_list is already a custom type - overriding
+2014-05-09 14:20:02,516 - WARNING : custom1_list is already a custom type - overriding
+2014-05-09 14:20:02,516 - WARNING : float_list is already a custom type - overriding
+2014-05-09 14:20:02,516 - WARNING : int_list is already a custom type - overriding
+2014-05-09 14:20:02,520 - WARNING : cached_object is already a custom type - overridding
+2014-05-09 14:20:02,520 - WARNING : cached_object is already a custom type - overriding
+2014-05-09 14:20:02,520 - WARNING : cached_object is already a custom type - overriding
+2014-05-09 14:20:02,526 - WARNING : pydevd failed to import - eclipse debugging won't work
+2014-05-09 14:20:02,526 - WARNING : Check the eclipse path in C:\Users\557140\AppData\Roaming\Microsoft\AddIns\pyxll-2.1.0-x86-py27\examples\tools\eclipse_debug.pyc
+2014-05-09 14:20:02,529 - INFO : callbacks.license_notifier: This copy of PyXLL is for evaluation or non-commercial use only
+2014-05-09 14:20:05,506 - ERROR : Error calling function scipy_linregress
+2014-05-09 14:20:05,506 - ERROR : Traceback (most recent call last):
+2014-05-09 14:20:05,506 - ERROR :   File "pyxll", line 1457, in _xl_func_wrapper
+2014-05-09 14:20:05,506 - ERROR :   File "C:\Users\557140\AppData\Roaming\Microsoft\AddIns\pyxll-2.1.0-x86-py27\examples\scipy.py", line 11, in scipy_linregress
+2014-05-09 14:20:05,507 - ERROR :     slope, intercept, r_value, p_value, std_err = scipy.stats.linregress(x)
+2014-05-09 14:20:05,507 - ERROR : AttributeError: 'module' object has no attribute 'stats'
+2014-05-09 14:22:13,279 - INFO : 
+------------------------------------------------------------------------------
+  PyXLL 
+
+  Version          2.1.0
+  Buildtime        2014-01-19 18:40
+  Python version   2.7.6.final.0
+  Excel version    14.0
+
+  www.pyxll.com
+------------------------------------------------------------------------------
+
+2014-05-09 14:22:13,285 - WARNING : custom1 is already a custom type - overriding
+2014-05-09 14:22:13,285 - WARNING : custom1 is already a custom type - overriding
+2014-05-09 14:22:13,285 - WARNING : custom1 is already a custom type - overridding
+2014-05-09 14:22:13,285 - WARNING : custom2 is already a custom type - overriding
+2014-05-09 14:22:13,285 - WARNING : custom2 is already a custom type - overriding
+2014-05-09 14:22:13,285 - WARNING : custom2 is already a custom type - overridding
+2014-05-09 14:22:13,286 - WARNING : custom3 is already a custom type - overriding
+2014-05-09 14:22:13,286 - WARNING : custom3 is already a custom type - overriding
+2014-05-09 14:22:13,286 - WARNING : custom3 is already a custom type - overridding
+2014-05-09 14:22:13,286 - WARNING : int_list is already a custom type - overriding
+2014-05-09 14:22:13,286 - WARNING : float_list is already a custom type - overriding
+2014-05-09 14:22:13,286 - WARNING : custom1_list is already a custom type - overriding
+2014-05-09 14:22:13,286 - WARNING : custom1_list is already a custom type - overriding
+2014-05-09 14:22:13,286 - WARNING : float_list is already a custom type - overriding
+2014-05-09 14:22:13,286 - WARNING : int_list is already a custom type - overriding
+2014-05-09 14:22:13,292 - WARNING : cached_object is already a custom type - overridding
+2014-05-09 14:22:13,292 - WARNING : cached_object is already a custom type - overriding
+2014-05-09 14:22:13,292 - WARNING : cached_object is already a custom type - overriding
+2014-05-09 14:22:13,299 - WARNING : pydevd failed to import - eclipse debugging won't work
+2014-05-09 14:22:13,299 - WARNING : Check the eclipse path in C:\Users\557140\AppData\Roaming\Microsoft\AddIns\pyxll-2.1.0-x86-py27\examples\tools\eclipse_debug.pyc
+2014-05-09 14:22:13,303 - ERROR : Error importing 'scipy': cannot import name stats
+2014-05-09 14:22:13,303 - ERROR : Traceback (most recent call last):
+2014-05-09 14:22:13,303 - ERROR :   File "pyxll", line 717, in _open
+2014-05-09 14:22:13,305 - ERROR :   File "C:\Users\557140\AppData\Roaming\Microsoft\AddIns\pyxll-2.1.0-x86-py27\examples\scipy.py", line 5, in <module>
+2014-05-09 14:22:13,305 - ERROR :     from scipy import stats
+2014-05-09 14:22:13,305 - ERROR : ImportError: cannot import name stats
+2014-05-09 14:22:13,306 - INFO : callbacks.license_notifier: This copy of PyXLL is for evaluation or non-commercial use only
+2014-05-09 14:22:13,315 - ERROR : Error calling reload callback: global name 'win32api' is not defined
+2014-05-09 14:22:13,315 - ERROR : Traceback (most recent call last):
+2014-05-09 14:22:13,315 - ERROR :   File "pyxll", line 799, in _post_open
+2014-05-09 14:22:13,315 - ERROR :   File "C:\Users\557140\AppData\Roaming\Microsoft\AddIns\pyxll-2.1.0-x86-py27\examples\callbacks.py", line 55, in on_reload
+2014-05-09 14:22:13,315 - ERROR :     if win32api:
+2014-05-09 14:22:13,315 - ERROR : NameError: global name 'win32api' is not defined
+2014-05-09 14:26:41,809 - INFO : 
+------------------------------------------------------------------------------
+  PyXLL 
+
+  Version          2.1.0
+  Buildtime        2014-01-19 18:40
+  Python version   2.7.6.final.0
+  Excel version    14.0
+
+  www.pyxll.com
+------------------------------------------------------------------------------
+
+2014-05-09 14:26:41,815 - WARNING : custom1 is already a custom type - overriding
+2014-05-09 14:26:41,815 - WARNING : custom1 is already a custom type - overriding
+2014-05-09 14:26:41,815 - WARNING : custom1 is already a custom type - overridding
+2014-05-09 14:26:41,815 - WARNING : custom2 is already a custom type - overriding
+2014-05-09 14:26:41,815 - WARNING : custom2 is already a custom type - overriding
+2014-05-09 14:26:41,815 - WARNING : custom2 is already a custom type - overridding
+2014-05-09 14:26:41,815 - WARNING : custom3 is already a custom type - overriding
+2014-05-09 14:26:41,815 - WARNING : custom3 is already a custom type - overriding
+2014-05-09 14:26:41,815 - WARNING : custom3 is already a custom type - overridding
+2014-05-09 14:26:41,815 - WARNING : int_list is already a custom type - overriding
+2014-05-09 14:26:41,815 - WARNING : float_list is already a custom type - overriding
+2014-05-09 14:26:41,815 - WARNING : custom1_list is already a custom type - overriding
+2014-05-09 14:26:41,815 - WARNING : custom1_list is already a custom type - overriding
+2014-05-09 14:26:41,815 - WARNING : float_list is already a custom type - overriding
+2014-05-09 14:26:41,815 - WARNING : int_list is already a custom type - overriding
+2014-05-09 14:26:41,819 - WARNING : cached_object is already a custom type - overridding
+2014-05-09 14:26:41,819 - WARNING : cached_object is already a custom type - overriding
+2014-05-09 14:26:41,819 - WARNING : cached_object is already a custom type - overriding
+2014-05-09 14:26:41,825 - WARNING : pydevd failed to import - eclipse debugging won't work
+2014-05-09 14:26:41,825 - WARNING : Check the eclipse path in C:\Users\557140\AppData\Roaming\Microsoft\AddIns\pyxll-2.1.0-x86-py27\examples\tools\eclipse_debug.pyc
+2014-05-09 14:26:41,878 - INFO : callbacks.license_notifier: This copy of PyXLL is for evaluation or non-commercial use only
+2014-05-09 14:27:41,808 - INFO : 
+------------------------------------------------------------------------------
+  PyXLL 
+
+  Version          2.1.0
+  Buildtime        2014-01-19 18:40
+  Python version   2.7.6.final.0
+  Excel version    14.0
+
+  www.pyxll.com
+------------------------------------------------------------------------------
+
+2014-05-09 14:27:41,812 - WARNING : custom1 is already a custom type - overriding
+2014-05-09 14:27:41,812 - WARNING : custom1 is already a custom type - overriding
+2014-05-09 14:27:41,812 - WARNING : custom1 is already a custom type - overridding
+2014-05-09 14:27:41,812 - WARNING : custom2 is already a custom type - overriding
+2014-05-09 14:27:41,812 - WARNING : custom2 is already a custom type - overriding
+2014-05-09 14:27:41,812 - WARNING : custom2 is already a custom type - overridding
+2014-05-09 14:27:41,812 - WARNING : custom3 is already a custom type - overriding
+2014-05-09 14:27:41,812 - WARNING : custom3 is already a custom type - overriding
+2014-05-09 14:27:41,812 - WARNING : custom3 is already a custom type - overridding
+2014-05-09 14:27:41,812 - WARNING : int_list is already a custom type - overriding
+2014-05-09 14:27:41,812 - WARNING : float_list is already a custom type - overriding
+2014-05-09 14:27:41,812 - WARNING : custom1_list is already a custom type - overriding
+2014-05-09 14:27:41,813 - WARNING : custom1_list is already a custom type - overriding
+2014-05-09 14:27:41,813 - WARNING : float_list is already a custom type - overriding
+2014-05-09 14:27:41,813 - WARNING : int_list is already a custom type - overriding
+2014-05-09 14:27:41,819 - WARNING : cached_object is already a custom type - overridding
+2014-05-09 14:27:41,819 - WARNING : cached_object is already a custom type - overriding
+2014-05-09 14:27:41,819 - WARNING : cached_object is already a custom type - overriding
+2014-05-09 14:27:41,825 - WARNING : pydevd failed to import - eclipse debugging won't work
+2014-05-09 14:27:41,825 - WARNING : Check the eclipse path in C:\Users\557140\AppData\Roaming\Microsoft\AddIns\pyxll-2.1.0-x86-py27\examples\tools\eclipse_debug.pyc
+2014-05-09 14:27:41,832 - INFO : callbacks.license_notifier: This copy of PyXLL is for evaluation or non-commercial use only
+2014-05-09 14:29:52,961 - INFO : 
+------------------------------------------------------------------------------
+  PyXLL 
+
+  Version          2.1.0
+  Buildtime        2014-01-19 18:40
+  Python version   2.7.6.final.0
+  Excel version    14.0
+
+  www.pyxll.com
+------------------------------------------------------------------------------
+
+2014-05-09 14:29:52,967 - WARNING : custom1 is already a custom type - overriding
+2014-05-09 14:29:52,967 - WARNING : custom1 is already a custom type - overriding
+2014-05-09 14:29:52,967 - WARNING : custom1 is already a custom type - overridding
+2014-05-09 14:29:52,967 - WARNING : custom2 is already a custom type - overriding
+2014-05-09 14:29:52,967 - WARNING : custom2 is already a custom type - overriding
+2014-05-09 14:29:52,967 - WARNING : custom2 is already a custom type - overridding
+2014-05-09 14:29:52,967 - WARNING : custom3 is already a custom type - overriding
+2014-05-09 14:29:52,967 - WARNING : custom3 is already a custom type - overriding
+2014-05-09 14:29:52,967 - WARNING : custom3 is already a custom type - overridding
+2014-05-09 14:29:52,969 - WARNING : int_list is already a custom type - overriding
+2014-05-09 14:29:52,969 - WARNING : float_list is already a custom type - overriding
+2014-05-09 14:29:52,969 - WARNING : custom1_list is already a custom type - overriding
+2014-05-09 14:29:52,969 - WARNING : custom1_list is already a custom type - overriding
+2014-05-09 14:29:52,969 - WARNING : float_list is already a custom type - overriding
+2014-05-09 14:29:52,969 - WARNING : int_list is already a custom type - overriding
+2014-05-09 14:29:52,974 - WARNING : cached_object is already a custom type - overridding
+2014-05-09 14:29:52,974 - WARNING : cached_object is already a custom type - overriding
+2014-05-09 14:29:52,974 - WARNING : cached_object is already a custom type - overriding
+2014-05-09 14:29:52,982 - WARNING : pydevd failed to import - eclipse debugging won't work
+2014-05-09 14:29:52,982 - WARNING : Check the eclipse path in C:\Users\557140\AppData\Roaming\Microsoft\AddIns\pyxll-2.1.0-x86-py27\examples\tools\eclipse_debug.pyc
+2014-05-09 14:29:52,990 - INFO : callbacks.license_notifier: This copy of PyXLL is for evaluation or non-commercial use only
+2014-05-09 14:30:17,107 - INFO : 
+------------------------------------------------------------------------------
+  PyXLL 
+
+  Version          2.1.0
+  Buildtime        2014-01-19 18:40
+  Python version   2.7.6.final.0
+  Excel version    14.0
+
+  www.pyxll.com
+------------------------------------------------------------------------------
+
+2014-05-09 14:30:17,111 - WARNING : custom1 is already a custom type - overriding
+2014-05-09 14:30:17,111 - WARNING : custom1 is already a custom type - overriding
+2014-05-09 14:30:17,111 - WARNING : custom1 is already a custom type - overridding
+2014-05-09 14:30:17,111 - WARNING : custom2 is already a custom type - overriding
+2014-05-09 14:30:17,111 - WARNING : custom2 is already a custom type - overriding
+2014-05-09 14:30:17,111 - WARNING : custom2 is already a custom type - overridding
+2014-05-09 14:30:17,111 - WARNING : custom3 is already a custom type - overriding
+2014-05-09 14:30:17,112 - WARNING : custom3 is already a custom type - overriding
+2014-05-09 14:30:17,112 - WARNING : custom3 is already a custom type - overridding
+2014-05-09 14:30:17,112 - WARNING : int_list is already a custom type - overriding
+2014-05-09 14:30:17,112 - WARNING : float_list is already a custom type - overriding
+2014-05-09 14:30:17,112 - WARNING : custom1_list is already a custom type - overriding
+2014-05-09 14:30:17,112 - WARNING : custom1_list is already a custom type - overriding
+2014-05-09 14:30:17,112 - WARNING : float_list is already a custom type - overriding
+2014-05-09 14:30:17,112 - WARNING : int_list is already a custom type - overriding
+2014-05-09 14:30:17,118 - WARNING : cached_object is already a custom type - overridding
+2014-05-09 14:30:17,118 - WARNING : cached_object is already a custom type - overriding
+2014-05-09 14:30:17,118 - WARNING : cached_object is already a custom type - overriding
+2014-05-09 14:30:17,125 - WARNING : pydevd failed to import - eclipse debugging won't work
+2014-05-09 14:30:17,125 - WARNING : Check the eclipse path in C:\Users\557140\AppData\Roaming\Microsoft\AddIns\pyxll-2.1.0-x86-py27\examples\tools\eclipse_debug.pyc
+2014-05-09 14:30:18,095 - INFO : callbacks.license_notifier: This copy of PyXLL is for evaluation or non-commercial use only
+2014-05-09 14:30:45,996 - ERROR : Error calling function scipy_nrand
+2014-05-09 14:30:45,996 - ERROR : Traceback (most recent call last):
+2014-05-09 14:30:45,996 - ERROR :   File "pyxll", line 1466, in _xl_func_wrapper
+2014-05-09 14:30:45,997 - ERROR :   File "C:\Users\557140\AppData\Roaming\Microsoft\AddIns\pyxll-2.1.0-x86-py27\examples\scipyfunctions.py", line 19, in scipy_nrand
+2014-05-09 14:30:45,999 - ERROR :     return numpy.random.random(10)
+2014-05-09 14:30:45,999 - ERROR : NameError: global name 'numpy' is not defined
+2014-05-09 14:30:48,599 - ERROR : Error calling function scipy_nrand
+2014-05-09 14:30:48,599 - ERROR : Traceback (most recent call last):
+2014-05-09 14:30:48,599 - ERROR :   File "pyxll", line 1466, in _xl_func_wrapper
+2014-05-09 14:30:48,601 - ERROR :   File "C:\Users\557140\AppData\Roaming\Microsoft\AddIns\pyxll-2.1.0-x86-py27\examples\scipyfunctions.py", line 19, in scipy_nrand
+2014-05-09 14:30:48,601 - ERROR :     return numpy.random.random(10)
+2014-05-09 14:30:48,601 - ERROR : NameError: global name 'numpy' is not defined
+2014-05-09 14:30:50,361 - ERROR : Error calling function scipy_nrand
+2014-05-09 14:30:50,361 - ERROR : Traceback (most recent call last):
+2014-05-09 14:30:50,361 - ERROR :   File "pyxll", line 1466, in _xl_func_wrapper
+2014-05-09 14:30:50,362 - ERROR :   File "C:\Users\557140\AppData\Roaming\Microsoft\AddIns\pyxll-2.1.0-x86-py27\examples\scipyfunctions.py", line 19, in scipy_nrand
+2014-05-09 14:30:50,362 - ERROR :     return numpy.random.random(10)
+2014-05-09 14:30:50,362 - ERROR : NameError: global name 'numpy' is not defined
+2014-05-09 14:30:53,401 - ERROR : Error calling function scipy_nrand
+2014-05-09 14:30:53,403 - ERROR : Traceback (most recent call last):
+2014-05-09 14:30:53,403 - ERROR :   File "pyxll", line 1466, in _xl_func_wrapper
+2014-05-09 14:30:53,404 - ERROR :   File "C:\Users\557140\AppData\Roaming\Microsoft\AddIns\pyxll-2.1.0-x86-py27\examples\scipyfunctions.py", line 19, in scipy_nrand
+2014-05-09 14:30:53,404 - ERROR :     return numpy.random.random(10)
+2014-05-09 14:30:53,404 - ERROR : NameError: global name 'numpy' is not defined
+2014-05-09 14:32:13,253 - INFO : 
+------------------------------------------------------------------------------
+  PyXLL 
+
+  Version          2.1.0
+  Buildtime        2014-01-19 18:40
+  Python version   2.7.6.final.0
+  Excel version    14.0
+
+  www.pyxll.com
+------------------------------------------------------------------------------
+
+2014-05-09 14:32:13,259 - WARNING : custom1 is already a custom type - overriding
+2014-05-09 14:32:13,259 - WARNING : custom1 is already a custom type - overriding
+2014-05-09 14:32:13,259 - WARNING : custom1 is already a custom type - overridding
+2014-05-09 14:32:13,259 - WARNING : custom2 is already a custom type - overriding
+2014-05-09 14:32:13,259 - WARNING : custom2 is already a custom type - overriding
+2014-05-09 14:32:13,259 - WARNING : custom2 is already a custom type - overridding
+2014-05-09 14:32:13,259 - WARNING : custom3 is already a custom type - overriding
+2014-05-09 14:32:13,259 - WARNING : custom3 is already a custom type - overriding
+2014-05-09 14:32:13,259 - WARNING : custom3 is already a custom type - overridding
+2014-05-09 14:32:13,259 - WARNING : int_list is already a custom type - overriding
+2014-05-09 14:32:13,259 - WARNING : float_list is already a custom type - overriding
+2014-05-09 14:32:13,259 - WARNING : custom1_list is already a custom type - overriding
+2014-05-09 14:32:13,259 - WARNING : custom1_list is already a custom type - overriding
+2014-05-09 14:32:13,259 - WARNING : float_list is already a custom type - overriding
+2014-05-09 14:32:13,259 - WARNING : int_list is already a custom type - overriding
+2014-05-09 14:32:13,265 - WARNING : cached_object is already a custom type - overridding
+2014-05-09 14:32:13,265 - WARNING : cached_object is already a custom type - overriding
+2014-05-09 14:32:13,265 - WARNING : cached_object is already a custom type - overriding
+2014-05-09 14:32:13,273 - WARNING : pydevd failed to import - eclipse debugging won't work
+2014-05-09 14:32:13,273 - WARNING : Check the eclipse path in C:\Users\557140\AppData\Roaming\Microsoft\AddIns\pyxll-2.1.0-x86-py27\examples\tools\eclipse_debug.pyc
+2014-05-09 14:32:13,276 - INFO : callbacks.license_notifier: This copy of PyXLL is for evaluation or non-commercial use only
+2014-05-09 14:32:20,426 - ERROR : Error converting return value for scipy_range: expected array to be a sequence of sequences
+2014-05-09 14:33:11,644 - INFO : 
+------------------------------------------------------------------------------
+  PyXLL 
+
+  Version          2.1.0
+  Buildtime        2014-01-19 18:40
+  Python version   2.7.6.final.0
+  Excel version    14.0
+
+  www.pyxll.com
+------------------------------------------------------------------------------
+
+2014-05-09 14:33:11,650 - WARNING : custom1 is already a custom type - overriding
+2014-05-09 14:33:11,650 - WARNING : custom1 is already a custom type - overriding
+2014-05-09 14:33:11,650 - WARNING : custom1 is already a custom type - overridding
+2014-05-09 14:33:11,651 - WARNING : custom2 is already a custom type - overriding
+2014-05-09 14:33:11,651 - WARNING : custom2 is already a custom type - overriding
+2014-05-09 14:33:11,651 - WARNING : custom2 is already a custom type - overridding
+2014-05-09 14:33:11,651 - WARNING : custom3 is already a custom type - overriding
+2014-05-09 14:33:11,651 - WARNING : custom3 is already a custom type - overriding
+2014-05-09 14:33:11,651 - WARNING : custom3 is already a custom type - overridding
+2014-05-09 14:33:11,651 - WARNING : int_list is already a custom type - overriding
+2014-05-09 14:33:11,651 - WARNING : float_list is already a custom type - overriding
+2014-05-09 14:33:11,651 - WARNING : custom1_list is already a custom type - overriding
+2014-05-09 14:33:11,651 - WARNING : custom1_list is already a custom type - overriding
+2014-05-09 14:33:11,651 - WARNING : float_list is already a custom type - overriding
+2014-05-09 14:33:11,651 - WARNING : int_list is already a custom type - overriding
+2014-05-09 14:33:11,657 - WARNING : cached_object is already a custom type - overridding
+2014-05-09 14:33:11,657 - WARNING : cached_object is already a custom type - overriding
+2014-05-09 14:33:11,657 - WARNING : cached_object is already a custom type - overriding
+2014-05-09 14:33:11,664 - WARNING : pydevd failed to import - eclipse debugging won't work
+2014-05-09 14:33:11,664 - WARNING : Check the eclipse path in C:\Users\557140\AppData\Roaming\Microsoft\AddIns\pyxll-2.1.0-x86-py27\examples\tools\eclipse_debug.pyc
+2014-05-09 14:33:11,670 - INFO : callbacks.license_notifier: This copy of PyXLL is for evaluation or non-commercial use only
+2014-05-09 14:33:43,934 - INFO : 
+------------------------------------------------------------------------------
+  PyXLL 
+
+  Version          2.1.0
+  Buildtime        2014-01-19 18:40
+  Python version   2.7.6.final.0
+  Excel version    14.0
+
+  www.pyxll.com
+------------------------------------------------------------------------------
+
+2014-05-09 14:33:43,937 - WARNING : custom1 is already a custom type - overriding
+2014-05-09 14:33:43,938 - WARNING : custom1 is already a custom type - overriding
+2014-05-09 14:33:43,938 - WARNING : custom1 is already a custom type - overridding
+2014-05-09 14:33:43,938 - WARNING : custom2 is already a custom type - overriding
+2014-05-09 14:33:43,938 - WARNING : custom2 is already a custom type - overriding
+2014-05-09 14:33:43,938 - WARNING : custom2 is already a custom type - overridding
+2014-05-09 14:33:43,938 - WARNING : custom3 is already a custom type - overriding
+2014-05-09 14:33:43,938 - WARNING : custom3 is already a custom type - overriding
+2014-05-09 14:33:43,938 - WARNING : custom3 is already a custom type - overridding
+2014-05-09 14:33:43,938 - WARNING : int_list is already a custom type - overriding
+2014-05-09 14:33:43,940 - WARNING : float_list is already a custom type - overriding
+2014-05-09 14:33:43,940 - WARNING : custom1_list is already a custom type - overriding
+2014-05-09 14:33:43,940 - WARNING : custom1_list is already a custom type - overriding
+2014-05-09 14:33:43,940 - WARNING : float_list is already a custom type - overriding
+2014-05-09 14:33:43,940 - WARNING : int_list is already a custom type - overriding
+2014-05-09 14:33:43,947 - WARNING : cached_object is already a custom type - overridding
+2014-05-09 14:33:43,947 - WARNING : cached_object is already a custom type - overriding
+2014-05-09 14:33:43,947 - WARNING : cached_object is already a custom type - overriding
+2014-05-09 14:33:43,953 - WARNING : pydevd failed to import - eclipse debugging won't work
+2014-05-09 14:33:43,953 - WARNING : Check the eclipse path in C:\Users\557140\AppData\Roaming\Microsoft\AddIns\pyxll-2.1.0-x86-py27\examples\tools\eclipse_debug.pyc
+2014-05-09 14:33:43,959 - INFO : callbacks.license_notifier: This copy of PyXLL is for evaluation or non-commercial use only
+2014-05-09 14:33:50,515 - ERROR : Error calling function scipy_range
+2014-05-09 14:33:50,515 - ERROR : Traceback (most recent call last):
+2014-05-09 14:33:50,515 - ERROR :   File "pyxll", line 1468, in _xl_func_wrapper
+2014-05-09 14:33:50,516 - ERROR :   File "pyxll", line 1985, in _numpy_array_to_array
+2014-05-09 14:33:50,517 - ERROR : AssertionError: expected a numpy array type
+2014-05-09 14:34:19,209 - INFO : 
+------------------------------------------------------------------------------
+  PyXLL 
+
+  Version          2.1.0
+  Buildtime        2014-01-19 18:40
+  Python version   2.7.6.final.0
+  Excel version    14.0
+
+  www.pyxll.com
+------------------------------------------------------------------------------
+
+2014-05-09 14:34:19,213 - WARNING : custom1 is already a custom type - overriding
+2014-05-09 14:34:19,213 - WARNING : custom1 is already a custom type - overriding
+2014-05-09 14:34:19,213 - WARNING : custom1 is already a custom type - overridding
+2014-05-09 14:34:19,214 - WARNING : custom2 is already a custom type - overriding
+2014-05-09 14:34:19,214 - WARNING : custom2 is already a custom type - overriding
+2014-05-09 14:34:19,214 - WARNING : custom2 is already a custom type - overridding
+2014-05-09 14:34:19,214 - WARNING : custom3 is already a custom type - overriding
+2014-05-09 14:34:19,214 - WARNING : custom3 is already a custom type - overriding
+2014-05-09 14:34:19,214 - WARNING : custom3 is already a custom type - overridding
+2014-05-09 14:34:19,214 - WARNING : int_list is already a custom type - overriding
+2014-05-09 14:34:19,214 - WARNING : float_list is already a custom type - overriding
+2014-05-09 14:34:19,216 - WARNING : custom1_list is already a custom type - overriding
+2014-05-09 14:34:19,216 - WARNING : custom1_list is already a custom type - overriding
+2014-05-09 14:34:19,216 - WARNING : float_list is already a custom type - overriding
+2014-05-09 14:34:19,216 - WARNING : int_list is already a custom type - overriding
+2014-05-09 14:34:19,223 - WARNING : cached_object is already a custom type - overridding
+2014-05-09 14:34:19,223 - WARNING : cached_object is already a custom type - overriding
+2014-05-09 14:34:19,223 - WARNING : cached_object is already a custom type - overriding
+2014-05-09 14:34:19,230 - WARNING : pydevd failed to import - eclipse debugging won't work
+2014-05-09 14:34:19,230 - WARNING : Check the eclipse path in C:\Users\557140\AppData\Roaming\Microsoft\AddIns\pyxll-2.1.0-x86-py27\examples\tools\eclipse_debug.pyc
+2014-05-09 14:34:19,236 - INFO : callbacks.license_notifier: This copy of PyXLL is for evaluation or non-commercial use only
+2014-05-09 14:35:49,721 - ERROR : C:\Program Files (x86)\Anaconda\lib\site-packages\scipy\stats\stats.py:3118: RuntimeWarning: invalid value encountered in double_scalars
+2014-05-09 14:35:49,740 - ERROR :   sterrest = np.sqrt((1-r*r)*ssym / ssxm / df)
+2014-05-09 14:37:53,019 - INFO : 
+------------------------------------------------------------------------------
+  PyXLL 
+
+  Version          2.1.0
+  Buildtime        2014-01-19 18:40
+  Python version   2.7.6.final.0
+  Excel version    14.0
+
+  www.pyxll.com
+------------------------------------------------------------------------------
+
+2014-05-09 14:37:53,112 - WARNING : custom1 is already a custom type - overriding
+2014-05-09 14:37:53,112 - WARNING : custom1 is already a custom type - overriding
+2014-05-09 14:37:53,112 - WARNING : custom1 is already a custom type - overridding
+2014-05-09 14:37:53,112 - WARNING : custom2 is already a custom type - overriding
+2014-05-09 14:37:53,112 - WARNING : custom2 is already a custom type - overriding
+2014-05-09 14:37:53,112 - WARNING : custom2 is already a custom type - overridding
+2014-05-09 14:37:53,112 - WARNING : custom3 is already a custom type - overriding
+2014-05-09 14:37:53,112 - WARNING : custom3 is already a custom type - overriding
+2014-05-09 14:37:53,114 - WARNING : custom3 is already a custom type - overridding
+2014-05-09 14:37:53,114 - WARNING : int_list is already a custom type - overriding
+2014-05-09 14:37:53,114 - WARNING : float_list is already a custom type - overriding
+2014-05-09 14:37:53,114 - WARNING : custom1_list is already a custom type - overriding
+2014-05-09 14:37:53,114 - WARNING : custom1_list is already a custom type - overriding
+2014-05-09 14:37:53,114 - WARNING : float_list is already a custom type - overriding
+2014-05-09 14:37:53,114 - WARNING : int_list is already a custom type - overriding
+2014-05-09 14:37:53,219 - WARNING : cached_object is already a custom type - overridding
+2014-05-09 14:37:53,220 - WARNING : cached_object is already a custom type - overriding
+2014-05-09 14:37:53,220 - WARNING : cached_object is already a custom type - overriding
+2014-05-09 14:37:53,242 - WARNING : pydevd failed to import - eclipse debugging won't work
+2014-05-09 14:37:53,242 - WARNING : Check the eclipse path in C:\Users\557140\AppData\Roaming\Microsoft\AddIns\pyxll-2.1.0-x86-py27\examples\tools\eclipse_debug.pyc
+2014-05-09 14:37:53,269 - INFO : callbacks.license_notifier: This copy of PyXLL is for evaluation or non-commercial use only
+2014-05-09 14:38:03,519 - ERROR : Error converting return value for scipy_linregress2: expected array to be a sequence of sequences
+2014-05-09 14:38:06,463 - ERROR : Error converting return value for scipy_linregress2: expected array to be a sequence of sequences
+2014-05-09 14:38:16,976 - INFO : 
+------------------------------------------------------------------------------
+  PyXLL 
+
+  Version          2.1.0
+  Buildtime        2014-01-19 18:40
+  Python version   2.7.6.final.0
+  Excel version    14.0
+
+  www.pyxll.com
+------------------------------------------------------------------------------
+
+2014-05-09 14:38:16,983 - WARNING : custom1 is already a custom type - overriding
+2014-05-09 14:38:16,983 - WARNING : custom1 is already a custom type - overriding
+2014-05-09 14:38:16,983 - WARNING : custom1 is already a custom type - overridding
+2014-05-09 14:38:16,983 - WARNING : custom2 is already a custom type - overriding
+2014-05-09 14:38:16,983 - WARNING : custom2 is already a custom type - overriding
+2014-05-09 14:38:16,983 - WARNING : custom2 is already a custom type - overridding
+2014-05-09 14:38:16,983 - WARNING : custom3 is already a custom type - overriding
+2014-05-09 14:38:16,983 - WARNING : custom3 is already a custom type - overriding
+2014-05-09 14:38:16,983 - WARNING : custom3 is already a custom type - overridding
+2014-05-09 14:38:16,984 - WARNING : int_list is already a custom type - overriding
+2014-05-09 14:38:16,984 - WARNING : float_list is already a custom type - overriding
+2014-05-09 14:38:16,984 - WARNING : custom1_list is already a custom type - overriding
+2014-05-09 14:38:16,984 - WARNING : custom1_list is already a custom type - overriding
+2014-05-09 14:38:16,984 - WARNING : float_list is already a custom type - overriding
+2014-05-09 14:38:16,984 - WARNING : int_list is already a custom type - overriding
+2014-05-09 14:38:16,992 - WARNING : cached_object is already a custom type - overridding
+2014-05-09 14:38:16,992 - WARNING : cached_object is already a custom type - overriding
+2014-05-09 14:38:16,992 - WARNING : cached_object is already a custom type - overriding
+2014-05-09 14:38:17,000 - WARNING : pydevd failed to import - eclipse debugging won't work
+2014-05-09 14:38:17,002 - WARNING : Check the eclipse path in C:\Users\557140\AppData\Roaming\Microsoft\AddIns\pyxll-2.1.0-x86-py27\examples\tools\eclipse_debug.pyc
+2014-05-09 14:38:17,006 - INFO : callbacks.license_notifier: This copy of PyXLL is for evaluation or non-commercial use only
+2014-05-09 14:38:19,917 - ERROR : Error calling function scipy_linregress2
+2014-05-09 14:38:19,917 - ERROR : Traceback (most recent call last):
+2014-05-09 14:38:19,917 - ERROR :   File "pyxll", line 1466, in _xl_func_wrapper
+2014-05-09 14:38:19,921 - ERROR :   File "pyxll", line 1457, in _xl_func_wrapper
+2014-05-09 14:38:19,923 - ERROR :   File "C:\Users\557140\AppData\Roaming\Microsoft\AddIns\pyxll-2.1.0-x86-py27\examples\scipyfunctions.py", line 18, in scipy_linregress2
+2014-05-09 14:38:19,924 - ERROR :     return numpy.array(stats.linregress(x))
+2014-05-09 14:38:19,924 - ERROR : NameError: global name 'numpy' is not defined
+2014-05-09 14:38:48,426 - INFO : 
+------------------------------------------------------------------------------
+  PyXLL 
+
+  Version          2.1.0
+  Buildtime        2014-01-19 18:40
+  Python version   2.7.6.final.0
+  Excel version    14.0
+
+  www.pyxll.com
+------------------------------------------------------------------------------
+
+2014-05-09 14:38:48,430 - WARNING : custom1 is already a custom type - overriding
+2014-05-09 14:38:48,430 - WARNING : custom1 is already a custom type - overriding
+2014-05-09 14:38:48,431 - WARNING : custom1 is already a custom type - overridding
+2014-05-09 14:38:48,431 - WARNING : custom2 is already a custom type - overriding
+2014-05-09 14:38:48,431 - WARNING : custom2 is already a custom type - overriding
+2014-05-09 14:38:48,431 - WARNING : custom2 is already a custom type - overridding
+2014-05-09 14:38:48,431 - WARNING : custom3 is already a custom type - overriding
+2014-05-09 14:38:48,433 - WARNING : custom3 is already a custom type - overriding
+2014-05-09 14:38:48,433 - WARNING : custom3 is already a custom type - overridding
+2014-05-09 14:38:48,433 - WARNING : int_list is already a custom type - overriding
+2014-05-09 14:38:48,433 - WARNING : float_list is already a custom type - overriding
+2014-05-09 14:38:48,433 - WARNING : custom1_list is already a custom type - overriding
+2014-05-09 14:38:48,433 - WARNING : custom1_list is already a custom type - overriding
+2014-05-09 14:38:48,433 - WARNING : float_list is already a custom type - overriding
+2014-05-09 14:38:48,433 - WARNING : int_list is already a custom type - overriding
+2014-05-09 14:38:48,438 - WARNING : cached_object is already a custom type - overridding
+2014-05-09 14:38:48,440 - WARNING : cached_object is already a custom type - overriding
+2014-05-09 14:38:48,440 - WARNING : cached_object is already a custom type - overriding
+2014-05-09 14:38:48,448 - WARNING : pydevd failed to import - eclipse debugging won't work
+2014-05-09 14:38:48,448 - WARNING : Check the eclipse path in C:\Users\557140\AppData\Roaming\Microsoft\AddIns\pyxll-2.1.0-x86-py27\examples\tools\eclipse_debug.pyc
+2014-05-09 14:38:48,453 - INFO : callbacks.license_notifier: This copy of PyXLL is for evaluation or non-commercial use only
+2014-05-09 14:38:57,405 - ERROR : Error converting return value for scipy_linregress2: expected array to be a sequence of sequences
+2014-05-09 14:41:20,601 - INFO : 
+------------------------------------------------------------------------------
+  PyXLL 
+
+  Version          2.1.0
+  Buildtime        2014-01-19 18:40
+  Python version   2.7.6.final.0
+  Excel version    14.0
+
+  www.pyxll.com
+------------------------------------------------------------------------------
+
+2014-05-09 14:41:20,607 - WARNING : custom1 is already a custom type - overriding
+2014-05-09 14:41:20,607 - WARNING : custom1 is already a custom type - overriding
+2014-05-09 14:41:20,608 - WARNING : custom1 is already a custom type - overridding
+2014-05-09 14:41:20,608 - WARNING : custom2 is already a custom type - overriding
+2014-05-09 14:41:20,608 - WARNING : custom2 is already a custom type - overriding
+2014-05-09 14:41:20,608 - WARNING : custom2 is already a custom type - overridding
+2014-05-09 14:41:20,608 - WARNING : custom3 is already a custom type - overriding
+2014-05-09 14:41:20,608 - WARNING : custom3 is already a custom type - overriding
+2014-05-09 14:41:20,608 - WARNING : custom3 is already a custom type - overridding
+2014-05-09 14:41:20,608 - WARNING : int_list is already a custom type - overriding
+2014-05-09 14:41:20,608 - WARNING : float_list is already a custom type - overriding
+2014-05-09 14:41:20,608 - WARNING : custom1_list is already a custom type - overriding
+2014-05-09 14:41:20,608 - WARNING : custom1_list is already a custom type - overriding
+2014-05-09 14:41:20,608 - WARNING : float_list is already a custom type - overriding
+2014-05-09 14:41:20,608 - WARNING : int_list is already a custom type - overriding
+2014-05-09 14:41:20,615 - WARNING : cached_object is already a custom type - overridding
+2014-05-09 14:41:20,615 - WARNING : cached_object is already a custom type - overriding
+2014-05-09 14:41:20,615 - WARNING : cached_object is already a custom type - overriding
+2014-05-09 14:41:20,624 - WARNING : pydevd failed to import - eclipse debugging won't work
+2014-05-09 14:41:20,624 - WARNING : Check the eclipse path in C:\Users\557140\AppData\Roaming\Microsoft\AddIns\pyxll-2.1.0-x86-py27\examples\tools\eclipse_debug.pyc
+2014-05-09 14:41:20,628 - INFO : callbacks.license_notifier: This copy of PyXLL is for evaluation or non-commercial use only
+2014-05-09 14:41:20,628 - WARNING : function scipy_linregress2 is duplicated - overriding
+2014-05-09 14:41:33,627 - INFO : 
+------------------------------------------------------------------------------
+  PyXLL 
+
+  Version          2.1.0
+  Buildtime        2014-01-19 18:40
+  Python version   2.7.6.final.0
+  Excel version    14.0
+
+  www.pyxll.com
+------------------------------------------------------------------------------
+
+2014-05-09 14:41:33,631 - WARNING : custom1 is already a custom type - overriding
+2014-05-09 14:41:33,631 - WARNING : custom1 is already a custom type - overriding
+2014-05-09 14:41:33,631 - WARNING : custom1 is already a custom type - overridding
+2014-05-09 14:41:33,631 - WARNING : custom2 is already a custom type - overriding
+2014-05-09 14:41:33,631 - WARNING : custom2 is already a custom type - overriding
+2014-05-09 14:41:33,631 - WARNING : custom2 is already a custom type - overridding
+2014-05-09 14:41:33,631 - WARNING : custom3 is already a custom type - overriding
+2014-05-09 14:41:33,631 - WARNING : custom3 is already a custom type - overriding
+2014-05-09 14:41:33,631 - WARNING : custom3 is already a custom type - overridding
+2014-05-09 14:41:33,631 - WARNING : int_list is already a custom type - overriding
+2014-05-09 14:41:33,631 - WARNING : float_list is already a custom type - overriding
+2014-05-09 14:41:33,631 - WARNING : custom1_list is already a custom type - overriding
+2014-05-09 14:41:33,631 - WARNING : custom1_list is already a custom type - overriding
+2014-05-09 14:41:33,632 - WARNING : float_list is already a custom type - overriding
+2014-05-09 14:41:33,632 - WARNING : int_list is already a custom type - overriding
+2014-05-09 14:41:33,638 - WARNING : cached_object is already a custom type - overridding
+2014-05-09 14:41:33,638 - WARNING : cached_object is already a custom type - overriding
+2014-05-09 14:41:33,638 - WARNING : cached_object is already a custom type - overriding
+2014-05-09 14:41:33,647 - WARNING : pydevd failed to import - eclipse debugging won't work
+2014-05-09 14:41:33,647 - WARNING : Check the eclipse path in C:\Users\557140\AppData\Roaming\Microsoft\AddIns\pyxll-2.1.0-x86-py27\examples\tools\eclipse_debug.pyc
+2014-05-09 14:41:33,651 - INFO : callbacks.license_notifier: This copy of PyXLL is for evaluation or non-commercial use only
+2014-05-09 14:41:42,085 - ERROR : Error converting return value for scipy_linregress3: expected array to be a sequence of sequences
+2014-05-09 14:41:44,785 - ERROR : Error converting return value for scipy_linregress3: expected array to be a sequence of sequences
+2014-05-09 14:41:49,882 - ERROR : Error converting return value for scipy_linregress3: expected array to be a sequence of sequences
+2014-05-09 14:42:21,904 - ERROR : Error converting return value for scipy_linregress3: expected array to be a sequence of sequences
+2014-05-09 14:42:21,907 - ERROR : Error converting return value for scipy_linregress2: expected array to be a sequence of sequences
+2014-05-09 14:47:35,880 - INFO : 
+------------------------------------------------------------------------------
+  PyXLL 
+
+  Version          2.1.0
+  Buildtime        2014-01-19 18:40
+  Python version   2.7.6.final.0
+  Excel version    14.0
+
+  www.pyxll.com
+------------------------------------------------------------------------------
+
+2014-05-09 14:47:35,884 - WARNING : custom1 is already a custom type - overriding
+2014-05-09 14:47:35,884 - WARNING : custom1 is already a custom type - overriding
+2014-05-09 14:47:35,884 - WARNING : custom1 is already a custom type - overridding
+2014-05-09 14:47:35,884 - WARNING : custom2 is already a custom type - overriding
+2014-05-09 14:47:35,884 - WARNING : custom2 is already a custom type - overriding
+2014-05-09 14:47:35,884 - WARNING : custom2 is already a custom type - overridding
+2014-05-09 14:47:35,884 - WARNING : custom3 is already a custom type - overriding
+2014-05-09 14:47:35,884 - WARNING : custom3 is already a custom type - overriding
+2014-05-09 14:47:35,884 - WARNING : custom3 is already a custom type - overridding
+2014-05-09 14:47:35,884 - WARNING : int_list is already a custom type - overriding
+2014-05-09 14:47:35,884 - WARNING : float_list is already a custom type - overriding
+2014-05-09 14:47:35,884 - WARNING : custom1_list is already a custom type - overriding
+2014-05-09 14:47:35,884 - WARNING : custom1_list is already a custom type - overriding
+2014-05-09 14:47:35,884 - WARNING : float_list is already a custom type - overriding
+2014-05-09 14:47:35,884 - WARNING : int_list is already a custom type - overriding
+2014-05-09 14:47:35,891 - WARNING : cached_object is already a custom type - overridding
+2014-05-09 14:47:35,891 - WARNING : cached_object is already a custom type - overriding
+2014-05-09 14:47:35,891 - WARNING : cached_object is already a custom type - overriding
+2014-05-09 14:47:35,900 - WARNING : pydevd failed to import - eclipse debugging won't work
+2014-05-09 14:47:35,900 - WARNING : Check the eclipse path in C:\Users\557140\AppData\Roaming\Microsoft\AddIns\pyxll-2.1.0-x86-py27\examples\tools\eclipse_debug.pyc
+2014-05-09 14:47:35,903 - INFO : callbacks.license_notifier: This copy of PyXLL is for evaluation or non-commercial use only
+2014-05-09 14:53:03,282 - INFO : 
+------------------------------------------------------------------------------
+  PyXLL 
+
+  Version          2.1.0
+  Buildtime        2014-01-19 18:40
+  Python version   2.7.6.final.0
+  Excel version    14.0
+
+  www.pyxll.com
+------------------------------------------------------------------------------
+
+2014-05-09 14:53:03,288 - WARNING : custom1 is already a custom type - overriding
+2014-05-09 14:53:03,288 - WARNING : custom1 is already a custom type - overriding
+2014-05-09 14:53:03,288 - WARNING : custom1 is already a custom type - overridding
+2014-05-09 14:53:03,288 - WARNING : custom2 is already a custom type - overriding
+2014-05-09 14:53:03,288 - WARNING : custom2 is already a custom type - overriding
+2014-05-09 14:53:03,288 - WARNING : custom2 is already a custom type - overridding
+2014-05-09 14:53:03,289 - WARNING : custom3 is already a custom type - overriding
+2014-05-09 14:53:03,289 - WARNING : custom3 is already a custom type - overriding
+2014-05-09 14:53:03,289 - WARNING : custom3 is already a custom type - overridding
+2014-05-09 14:53:03,289 - WARNING : int_list is already a custom type - overriding
+2014-05-09 14:53:03,289 - WARNING : float_list is already a custom type - overriding
+2014-05-09 14:53:03,289 - WARNING : custom1_list is already a custom type - overriding
+2014-05-09 14:53:03,289 - WARNING : custom1_list is already a custom type - overriding
+2014-05-09 14:53:03,289 - WARNING : float_list is already a custom type - overriding
+2014-05-09 14:53:03,289 - WARNING : int_list is already a custom type - overriding
+2014-05-09 14:53:03,296 - WARNING : cached_object is already a custom type - overridding
+2014-05-09 14:53:03,296 - WARNING : cached_object is already a custom type - overriding
+2014-05-09 14:53:03,296 - WARNING : cached_object is already a custom type - overriding
+2014-05-09 14:53:03,305 - WARNING : pydevd failed to import - eclipse debugging won't work
+2014-05-09 14:53:03,305 - WARNING : Check the eclipse path in C:\Users\557140\AppData\Roaming\Microsoft\AddIns\pyxll-2.1.0-x86-py27\examples\tools\eclipse_debug.pyc
+2014-05-09 14:53:03,309 - INFO : callbacks.license_notifier: This copy of PyXLL is for evaluation or non-commercial use only
+2014-05-09 14:53:14,135 - ERROR : Error converting return value for scipy_linregress2: expected array to be a sequence of sequences
+2014-05-09 14:53:17,798 - ERROR : Error converting return value for scipy_linregress2: expected array to be a sequence of sequences
+2014-05-09 14:53:42,109 - ERROR : Error converting return value for scipy_linregress3: expected array to be a sequence of sequences
+2014-05-09 14:56:40,701 - INFO : 
+------------------------------------------------------------------------------
+  PyXLL 
+
+  Version          2.1.0
+  Buildtime        2014-01-19 18:40
+  Python version   2.7.6.final.0
+  Excel version    14.0
+
+  www.pyxll.com
+------------------------------------------------------------------------------
+
+2014-05-09 14:56:40,707 - WARNING : custom1 is already a custom type - overriding
+2014-05-09 14:56:40,709 - WARNING : custom1 is already a custom type - overriding
+2014-05-09 14:56:40,709 - WARNING : custom1 is already a custom type - overridding
+2014-05-09 14:56:40,709 - WARNING : custom2 is already a custom type - overriding
+2014-05-09 14:56:40,709 - WARNING : custom2 is already a custom type - overriding
+2014-05-09 14:56:40,709 - WARNING : custom2 is already a custom type - overridding
+2014-05-09 14:56:40,710 - WARNING : custom3 is already a custom type - overriding
+2014-05-09 14:56:40,710 - WARNING : custom3 is already a custom type - overriding
+2014-05-09 14:56:40,710 - WARNING : custom3 is already a custom type - overridding
+2014-05-09 14:56:40,710 - WARNING : int_list is already a custom type - overriding
+2014-05-09 14:56:40,710 - WARNING : float_list is already a custom type - overriding
+2014-05-09 14:56:40,710 - WARNING : custom1_list is already a custom type - overriding
+2014-05-09 14:56:40,710 - WARNING : custom1_list is already a custom type - overriding
+2014-05-09 14:56:40,710 - WARNING : float_list is already a custom type - overriding
+2014-05-09 14:56:40,710 - WARNING : int_list is already a custom type - overriding
+2014-05-09 14:56:40,717 - WARNING : cached_object is already a custom type - overridding
+2014-05-09 14:56:40,717 - WARNING : cached_object is already a custom type - overriding
+2014-05-09 14:56:40,717 - WARNING : cached_object is already a custom type - overriding
+2014-05-09 14:56:40,726 - WARNING : pydevd failed to import - eclipse debugging won't work
+2014-05-09 14:56:40,726 - WARNING : Check the eclipse path in C:\Users\557140\AppData\Roaming\Microsoft\AddIns\pyxll-2.1.0-x86-py27\examples\tools\eclipse_debug.pyc
+2014-05-09 14:56:40,732 - INFO : callbacks.license_notifier: This copy of PyXLL is for evaluation or non-commercial use only
+2014-05-09 14:56:45,687 - ERROR : Error converting return value for scipy_linregress3: expected array to be a sequence of sequences
+2014-05-09 14:57:14,010 - ERROR : Error converting return value for scipy_linregress2: expected array to be a sequence of sequences
+2014-05-09 17:27:45,752 - INFO : 
+------------------------------------------------------------------------------
+  PyXLL 
+
+  Version          2.1.0
+  Buildtime        2014-01-19 18:40
+  Python version   2.7.6.final.0
+  Excel version    14.0
+
+  www.pyxll.com
+------------------------------------------------------------------------------
+
+2014-05-09 17:27:45,766 - WARNING : custom1 is already a custom type - overriding
+2014-05-09 17:27:45,766 - WARNING : custom1 is already a custom type - overriding
+2014-05-09 17:27:45,767 - WARNING : custom1 is already a custom type - overridding
+2014-05-09 17:27:45,767 - WARNING : custom2 is already a custom type - overriding
+2014-05-09 17:27:45,767 - WARNING : custom2 is already a custom type - overriding
+2014-05-09 17:27:45,767 - WARNING : custom2 is already a custom type - overridding
+2014-05-09 17:27:45,767 - WARNING : custom3 is already a custom type - overriding
+2014-05-09 17:27:45,767 - WARNING : custom3 is already a custom type - overriding
+2014-05-09 17:27:45,769 - WARNING : custom3 is already a custom type - overridding
+2014-05-09 17:27:45,769 - WARNING : int_list is already a custom type - overriding
+2014-05-09 17:27:45,769 - WARNING : float_list is already a custom type - overriding
+2014-05-09 17:27:45,769 - WARNING : custom1_list is already a custom type - overriding
+2014-05-09 17:27:45,769 - WARNING : custom1_list is already a custom type - overriding
+2014-05-09 17:27:45,769 - WARNING : float_list is already a custom type - overriding
+2014-05-09 17:27:45,769 - WARNING : int_list is already a custom type - overriding
+2014-05-09 17:27:45,776 - WARNING : cached_object is already a custom type - overridding
+2014-05-09 17:27:45,776 - WARNING : cached_object is already a custom type - overriding
+2014-05-09 17:27:45,776 - WARNING : cached_object is already a custom type - overriding
+2014-05-09 17:27:45,789 - WARNING : pydevd failed to import - eclipse debugging won't work
+2014-05-09 17:27:45,789 - WARNING : Check the eclipse path in C:\Users\557140\AppData\Roaming\Microsoft\AddIns\pyxll-2.1.0-x86-py27\examples\tools\eclipse_debug.pyc
+2014-05-09 17:27:45,793 - INFO : callbacks.license_notifier: This copy of PyXLL is for evaluation or non-commercial use only
+2014-05-09 17:30:24,496 - ERROR : Error converting return value for scipy_linregress2: expected array to be a sequence of sequences
+2014-05-09 17:30:24,499 - ERROR : Error converting return value for scipy_linregress3: expected array to be a sequence of sequences
+2014-05-12 14:43:45,821 - INFO : callbacks.on_close: PyXLL is closing

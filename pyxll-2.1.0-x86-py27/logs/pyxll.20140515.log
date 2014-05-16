@@ -1,0 +1,16 @@
+2014-05-15 13:18:31,400 - INFO : 
+------------------------------------------------------------------------------
+  PyXLL 
+
+  Version          2.1.0
+  Buildtime        2014-01-19 18:40
+  Python version   2.7.6.final.0
+  Excel version    14.0
+
+  www.pyxll.com
+------------------------------------------------------------------------------
+
+2014-05-15 13:18:32,357 - WARNING : pydevd failed to import - eclipse debugging won't work
+2014-05-15 13:18:32,358 - WARNING : Check the eclipse path in C:\Users\557140\AppData\Roaming\Microsoft\AddIns\pyxll-2.1.0-x86-py27\examples\tools\eclipse_debug.pyc
+2014-05-15 13:18:37,160 - INFO : callbacks.license_notifier: This copy of PyXLL is for evaluation or non-commercial use only
+2014-05-15 13:18:56,187 - INFO : callbacks.on_close: PyXLL is closing

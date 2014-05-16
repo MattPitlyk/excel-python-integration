@@ -1,0 +1,220 @@
+2014-05-05 14:58:35,358 - INFO : 
+------------------------------------------------------------------------------
+  PyXLL 
+
+  Version          2.1.0
+  Buildtime        2014-01-19 18:40
+  Python version   2.7.5.final.0
+  Excel version    14.0
+
+  www.pyxll.com
+------------------------------------------------------------------------------
+
+2014-05-05 14:58:35,861 - WARNING : *** win32com.client could not be imported          ***
+2014-05-05 14:58:35,861 - WARNING : *** some of the automation examples will not work  ***
+2014-05-05 14:58:35,861 - WARNING : *** to fix this, install the pywin32 extensions.   ***
+2014-05-05 14:58:35,872 - WARNING : *** win32com.client could not be imported           ***
+2014-05-05 14:58:35,872 - WARNING : *** some of the objectcache examples will not work  ***
+2014-05-05 14:58:35,872 - WARNING : *** to fix this, install the pywin32 extensions     ***
+2014-05-05 14:58:35,924 - WARNING : pydevd failed to import - eclipse debugging won't work
+2014-05-05 14:58:35,924 - WARNING : Check the eclipse path in C:\Users\557140\Downloads\pyxll-2.1.0-x86-py27\examples\tools\eclipse_debug.py
+2014-05-05 14:58:35,927 - INFO : callbacks.license_notifier: This copy of PyXLL is for evaluation or non-commercial use only
+2014-05-05 15:00:49,749 - INFO : callbacks.on_close: PyXLL is closing
+2014-05-05 15:03:34,118 - INFO : 
+------------------------------------------------------------------------------
+  PyXLL 
+
+  Version          2.1.0
+  Buildtime        2014-01-19 18:40
+  Python version   2.7.5.final.0
+  Excel version    14.0
+
+  www.pyxll.com
+------------------------------------------------------------------------------
+
+2014-05-05 15:03:34,200 - WARNING : *** win32com.client could not be imported          ***
+2014-05-05 15:03:34,201 - WARNING : *** some of the automation examples will not work  ***
+2014-05-05 15:03:34,201 - WARNING : *** to fix this, install the pywin32 extensions.   ***
+2014-05-05 15:03:34,206 - WARNING : *** win32com.client could not be imported           ***
+2014-05-05 15:03:34,206 - WARNING : *** some of the objectcache examples will not work  ***
+2014-05-05 15:03:34,206 - WARNING : *** to fix this, install the pywin32 extensions     ***
+2014-05-05 15:03:34,217 - WARNING : pydevd failed to import - eclipse debugging won't work
+2014-05-05 15:03:34,217 - WARNING : Check the eclipse path in C:\Users\557140\AppData\Roaming\Microsoft\AddIns\pyxll-2.1.0-x86-py27\examples\tools\eclipse_debug.pyc
+2014-05-05 15:03:34,220 - INFO : callbacks.license_notifier: This copy of PyXLL is for evaluation or non-commercial use only
+2014-05-05 15:03:37,630 - INFO : callbacks.on_close: PyXLL is closing
+2014-05-05 15:03:45,170 - INFO : 
+------------------------------------------------------------------------------
+  PyXLL 
+
+  Version          2.1.0
+  Buildtime        2014-01-19 18:40
+  Python version   2.7.5.final.0
+  Excel version    14.0
+
+  www.pyxll.com
+------------------------------------------------------------------------------
+
+2014-05-05 15:03:45,246 - WARNING : *** win32com.client could not be imported          ***
+2014-05-05 15:03:45,246 - WARNING : *** some of the automation examples will not work  ***
+2014-05-05 15:03:45,246 - WARNING : *** to fix this, install the pywin32 extensions.   ***
+2014-05-05 15:03:45,250 - WARNING : *** win32com.client could not be imported           ***
+2014-05-05 15:03:45,250 - WARNING : *** some of the objectcache examples will not work  ***
+2014-05-05 15:03:45,250 - WARNING : *** to fix this, install the pywin32 extensions     ***
+2014-05-05 15:03:45,259 - WARNING : pydevd failed to import - eclipse debugging won't work
+2014-05-05 15:03:45,259 - WARNING : Check the eclipse path in C:\Users\557140\AppData\Roaming\Microsoft\AddIns\pyxll-2.1.0-x86-py27\examples\tools\eclipse_debug.pyc
+2014-05-05 15:03:45,260 - INFO : callbacks.license_notifier: This copy of PyXLL is for evaluation or non-commercial use only
+2014-05-05 15:04:47,523 - ERROR : Error calling function numpy_array_function_2
+2014-05-05 15:04:47,523 - ERROR : Traceback (most recent call last):
+2014-05-05 15:04:47,523 - ERROR :   File "pyxll", line 1466, in _xl_func_wrapper
+2014-05-05 15:04:47,523 - ERROR :   File "pyxll", line 1456, in _xl_func_wrapper
+2014-05-05 15:04:47,525 - ERROR :   File "pyxll", line 1969, in _array_to_numpy_array
+2014-05-05 15:04:47,526 - ERROR : ImportError: No module named numpy
+2014-05-05 15:04:47,528 - ERROR : Error calling function numpy_row_function_1
+2014-05-05 15:04:47,528 - ERROR : Traceback (most recent call last):
+2014-05-05 15:04:47,528 - ERROR :   File "pyxll", line 1456, in _xl_func_wrapper
+2014-05-05 15:04:47,529 - ERROR :   File "pyxll", line 1969, in _array_to_numpy_array
+2014-05-05 15:04:47,529 - ERROR : ImportError: No module named numpy
+2014-05-05 15:04:47,539 - WARNING : pywin32 timer module not found; using async_call and COM objects together may cause deadlocks
+2014-05-05 15:04:47,545 - ERROR : Traceback (most recent call last):
+2014-05-05 15:04:47,546 - ERROR :   File "pyxll", line 2311, in run
+2014-05-05 15:04:47,548 - ERROR : Error calling function numpy_col_function_1
+2014-05-05 15:04:47,549 - ERROR : Traceback (most recent call last):
+2014-05-05 15:04:47,549 - ERROR :   File "pyxll", line 1456, in _xl_func_wrapper
+2014-05-05 15:04:47,551 - ERROR :   File "pyxll", line 1969, in _array_to_numpy_array
+2014-05-05 15:04:47,551 - ERROR :   File "C:\Users\557140\AppData\Roaming\Microsoft\AddIns\pyxll-2.1.0-x86-py27\examples\automation.py", line 163, in update_func
+2014-05-05 15:04:47,552 - ERROR : ImportError: No module named numpy
+2014-05-05 15:04:47,553 - ERROR : Error calling function numpy_row_function_2
+2014-05-05 15:04:47,553 - ERROR :     xl = xl_app()
+2014-05-05 15:04:47,555 - ERROR : Traceback (most recent call last):
+2014-05-05 15:04:47,555 - ERROR :   File "C:\Users\557140\AppData\Roaming\Microsoft\AddIns\pyxll-2.1.0-x86-py27\examples\automation.py", line 79, in xl_app
+2014-05-05 15:04:47,555 - ERROR :   File "pyxll", line 1466, in _xl_func_wrapper
+2014-05-05 15:04:47,555 - ERROR :     xl_window = pyxll.get_active_object()
+2014-05-05 15:04:47,555 - ERROR :   File "pyxll", line 1456, in _xl_func_wrapper
+2014-05-05 15:04:47,555 - ERROR : RuntimeError: error calling xlGetHwnd
+2014-05-05 15:04:47,556 - ERROR :   File "pyxll", line 1969, in _array_to_numpy_array
+2014-05-05 15:04:47,558 - ERROR : ImportError: No module named numpy
+2014-05-05 15:04:47,559 - ERROR : Error calling function numpy_col_function_2
+2014-05-05 15:04:47,559 - ERROR : Traceback (most recent call last):
+2014-05-05 15:04:47,561 - ERROR :   File "pyxll", line 1466, in _xl_func_wrapper
+2014-05-05 15:04:47,561 - ERROR :   File "pyxll", line 1456, in _xl_func_wrapper
+2014-05-05 15:04:47,562 - ERROR :   File "pyxll", line 1969, in _array_to_numpy_array
+2014-05-05 15:04:47,562 - ERROR : ImportError: No module named numpy
+2014-05-05 15:04:47,563 - ERROR : Error calling function numpy_array_function_1
+2014-05-05 15:04:47,563 - ERROR : Traceback (most recent call last):
+2014-05-05 15:04:47,563 - ERROR :   File "pyxll", line 1466, in _xl_func_wrapper
+2014-05-05 15:04:47,565 - ERROR :   File "pyxll", line 1456, in _xl_func_wrapper
+2014-05-05 15:04:47,565 - ERROR :   File "pyxll", line 1969, in _array_to_numpy_array
+2014-05-05 15:04:47,565 - ERROR : ImportError: No module named numpy
+2014-05-05 15:09:35,940 - ERROR : Error calling function checkbox_example
+2014-05-05 15:09:35,940 - ERROR : Traceback (most recent call last):
+2014-05-05 15:09:35,940 - ERROR :   File "C:\Users\557140\AppData\Roaming\Microsoft\AddIns\pyxll-2.1.0-x86-py27\examples\automation.py", line 116, in checkbox_example
+2014-05-05 15:09:35,940 - ERROR :     xl = xl_app()
+2014-05-05 15:09:35,940 - ERROR :   File "C:\Users\557140\AppData\Roaming\Microsoft\AddIns\pyxll-2.1.0-x86-py27\examples\automation.py", line 79, in xl_app
+2014-05-05 15:09:35,940 - ERROR :     xl_window = pyxll.get_active_object()
+2014-05-05 15:09:35,940 - ERROR : ImportError: No module named pythoncom
+2014-05-05 15:09:36,915 - ERROR : Error calling function checkbox_example
+2014-05-05 15:09:36,915 - ERROR : Traceback (most recent call last):
+2014-05-05 15:09:36,915 - ERROR :   File "C:\Users\557140\AppData\Roaming\Microsoft\AddIns\pyxll-2.1.0-x86-py27\examples\automation.py", line 116, in checkbox_example
+2014-05-05 15:09:36,917 - ERROR :     xl = xl_app()
+2014-05-05 15:09:36,917 - ERROR :   File "C:\Users\557140\AppData\Roaming\Microsoft\AddIns\pyxll-2.1.0-x86-py27\examples\automation.py", line 79, in xl_app
+2014-05-05 15:09:36,917 - ERROR :     xl_window = pyxll.get_active_object()
+2014-05-05 15:09:36,917 - ERROR : ImportError: No module named pythoncom
+2014-05-05 15:09:37,693 - ERROR : Error calling function checkbox_example
+2014-05-05 15:09:37,693 - ERROR : Traceback (most recent call last):
+2014-05-05 15:09:37,693 - ERROR :   File "C:\Users\557140\AppData\Roaming\Microsoft\AddIns\pyxll-2.1.0-x86-py27\examples\automation.py", line 116, in checkbox_example
+2014-05-05 15:09:37,693 - ERROR :     xl = xl_app()
+2014-05-05 15:09:37,694 - ERROR :   File "C:\Users\557140\AppData\Roaming\Microsoft\AddIns\pyxll-2.1.0-x86-py27\examples\automation.py", line 79, in xl_app
+2014-05-05 15:09:37,694 - ERROR :     xl_window = pyxll.get_active_object()
+2014-05-05 15:09:37,694 - ERROR : ImportError: No module named pythoncom
+2014-05-05 15:09:38,301 - ERROR : Error calling function checkbox_example
+2014-05-05 15:09:38,301 - ERROR : Traceback (most recent call last):
+2014-05-05 15:09:38,301 - ERROR :   File "C:\Users\557140\AppData\Roaming\Microsoft\AddIns\pyxll-2.1.0-x86-py27\examples\automation.py", line 116, in checkbox_example
+2014-05-05 15:09:38,302 - ERROR :     xl = xl_app()
+2014-05-05 15:09:38,302 - ERROR :   File "C:\Users\557140\AppData\Roaming\Microsoft\AddIns\pyxll-2.1.0-x86-py27\examples\automation.py", line 79, in xl_app
+2014-05-05 15:09:38,302 - ERROR :     xl_window = pyxll.get_active_object()
+2014-05-05 15:09:38,302 - ERROR : ImportError: No module named pythoncom
+2014-05-05 15:09:54,990 - ERROR : Error calling function button_example
+2014-05-05 15:09:54,990 - ERROR : Traceback (most recent call last):
+2014-05-05 15:09:54,990 - ERROR :   File "C:\Users\557140\AppData\Roaming\Microsoft\AddIns\pyxll-2.1.0-x86-py27\examples\automation.py", line 110, in button_example
+2014-05-05 15:09:54,992 - ERROR :     xl = xl_app()
+2014-05-05 15:09:54,992 - ERROR :   File "C:\Users\557140\AppData\Roaming\Microsoft\AddIns\pyxll-2.1.0-x86-py27\examples\automation.py", line 79, in xl_app
+2014-05-05 15:09:54,992 - ERROR :     xl_window = pyxll.get_active_object()
+2014-05-05 15:09:54,992 - ERROR : ImportError: No module named pythoncom
+2014-05-05 15:09:56,207 - ERROR : Error calling function button_example
+2014-05-05 15:09:56,207 - ERROR : Traceback (most recent call last):
+2014-05-05 15:09:56,207 - ERROR :   File "C:\Users\557140\AppData\Roaming\Microsoft\AddIns\pyxll-2.1.0-x86-py27\examples\automation.py", line 110, in button_example
+2014-05-05 15:09:56,207 - ERROR :     xl = xl_app()
+2014-05-05 15:09:56,209 - ERROR :   File "C:\Users\557140\AppData\Roaming\Microsoft\AddIns\pyxll-2.1.0-x86-py27\examples\automation.py", line 79, in xl_app
+2014-05-05 15:09:56,209 - ERROR :     xl_window = pyxll.get_active_object()
+2014-05-05 15:09:56,209 - ERROR : ImportError: No module named pythoncom
+2014-05-05 15:09:56,552 - ERROR : Error calling function button_example
+2014-05-05 15:09:56,552 - ERROR : Traceback (most recent call last):
+2014-05-05 15:09:56,552 - ERROR :   File "C:\Users\557140\AppData\Roaming\Microsoft\AddIns\pyxll-2.1.0-x86-py27\examples\automation.py", line 110, in button_example
+2014-05-05 15:09:56,552 - ERROR :     xl = xl_app()
+2014-05-05 15:09:56,552 - ERROR :   File "C:\Users\557140\AppData\Roaming\Microsoft\AddIns\pyxll-2.1.0-x86-py27\examples\automation.py", line 79, in xl_app
+2014-05-05 15:09:56,552 - ERROR :     xl_window = pyxll.get_active_object()
+2014-05-05 15:09:56,552 - ERROR : ImportError: No module named pythoncom
+2014-05-05 15:09:56,726 - ERROR : Error calling function button_example
+2014-05-05 15:09:56,727 - ERROR : Traceback (most recent call last):
+2014-05-05 15:09:56,727 - ERROR :   File "C:\Users\557140\AppData\Roaming\Microsoft\AddIns\pyxll-2.1.0-x86-py27\examples\automation.py", line 110, in button_example
+2014-05-05 15:09:56,727 - ERROR :     xl = xl_app()
+2014-05-05 15:09:56,727 - ERROR :   File "C:\Users\557140\AppData\Roaming\Microsoft\AddIns\pyxll-2.1.0-x86-py27\examples\automation.py", line 79, in xl_app
+2014-05-05 15:09:56,729 - ERROR :     xl_window = pyxll.get_active_object()
+2014-05-05 15:09:56,729 - ERROR : ImportError: No module named pythoncom
+2014-05-05 15:09:56,871 - ERROR : Error calling function button_example
+2014-05-05 15:09:56,871 - ERROR : Traceback (most recent call last):
+2014-05-05 15:09:56,871 - ERROR :   File "C:\Users\557140\AppData\Roaming\Microsoft\AddIns\pyxll-2.1.0-x86-py27\examples\automation.py", line 110, in button_example
+2014-05-05 15:09:56,871 - ERROR :     xl = xl_app()
+2014-05-05 15:09:56,871 - ERROR :   File "C:\Users\557140\AppData\Roaming\Microsoft\AddIns\pyxll-2.1.0-x86-py27\examples\automation.py", line 79, in xl_app
+2014-05-05 15:09:56,872 - ERROR :     xl_window = pyxll.get_active_object()
+2014-05-05 15:09:56,872 - ERROR : ImportError: No module named pythoncom
+2014-05-05 15:11:43,595 - INFO : callbacks.on_close: PyXLL is closing
+2014-05-05 15:12:13,407 - INFO : 
+------------------------------------------------------------------------------
+  PyXLL 
+
+  Version          2.1.0
+  Buildtime        2014-01-19 18:40
+  Python version   2.7.5.final.0
+  Excel version    14.0
+
+  www.pyxll.com
+------------------------------------------------------------------------------
+
+2014-05-05 15:12:13,543 - WARNING : pydevd failed to import - eclipse debugging won't work
+2014-05-05 15:12:13,545 - WARNING : Check the eclipse path in C:\Users\557140\AppData\Roaming\Microsoft\AddIns\pyxll-2.1.0-x86-py27\examples\tools\eclipse_debug.pyc
+2014-05-05 15:12:13,546 - INFO : callbacks.license_notifier: This copy of PyXLL is for evaluation or non-commercial use only
+2014-05-05 15:19:26,306 - INFO : callbacks.on_close: PyXLL is closing
+2014-05-05 15:19:39,792 - INFO : 
+------------------------------------------------------------------------------
+  PyXLL 
+
+  Version          2.1.0
+  Buildtime        2014-01-19 18:40
+  Python version   2.7.5.final.0
+  Excel version    14.0
+
+  www.pyxll.com
+------------------------------------------------------------------------------
+
+2014-05-05 15:19:39,928 - WARNING : pydevd failed to import - eclipse debugging won't work
+2014-05-05 15:19:39,928 - WARNING : Check the eclipse path in C:\Users\557140\AppData\Roaming\Microsoft\AddIns\pyxll-2.1.0-x86-py27\examples\tools\eclipse_debug.pyc
+2014-05-05 15:19:39,930 - INFO : callbacks.license_notifier: This copy of PyXLL is for evaluation or non-commercial use only
+2014-05-05 15:19:42,825 - INFO : callbacks.on_close: PyXLL is closing
+2014-05-05 15:19:46,313 - INFO : 
+------------------------------------------------------------------------------
+  PyXLL 
+
+  Version          2.1.0
+  Buildtime        2014-01-19 18:40
+  Python version   2.7.5.final.0
+  Excel version    14.0
+
+  www.pyxll.com
+------------------------------------------------------------------------------
+
+2014-05-05 15:19:46,444 - WARNING : pydevd failed to import - eclipse debugging won't work
+2014-05-05 15:19:46,444 - WARNING : Check the eclipse path in C:\Users\557140\AppData\Roaming\Microsoft\AddIns\pyxll-2.1.0-x86-py27\examples\tools\eclipse_debug.pyc
+2014-05-05 15:19:46,446 - INFO : callbacks.license_notifier: This copy of PyXLL is for evaluation or non-commercial use only
+2014-05-05 15:19:47,950 - ERROR : log4net:ERROR XmlHierarchyConfigurator: Cannot find Property [add] to set object on [log4net.Repository.Hierarchy.Hierarchy]
+2014-05-05 15:53:19,568 - INFO : callbacks.on_close: PyXLL is closing

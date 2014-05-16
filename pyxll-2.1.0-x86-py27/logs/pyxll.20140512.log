@@ -1,0 +1,17 @@
+2014-05-12 14:50:58,341 - INFO : 
+------------------------------------------------------------------------------
+  PyXLL 
+
+  Version          2.1.0
+  Buildtime        2014-01-19 18:40
+  Python version   2.7.6.final.0
+  Excel version    14.0
+
+  www.pyxll.com
+------------------------------------------------------------------------------
+
+2014-05-12 14:51:05,984 - WARNING : pydevd failed to import - eclipse debugging won't work
+2014-05-12 14:51:05,984 - WARNING : Check the eclipse path in C:\Users\557140\AppData\Roaming\Microsoft\AddIns\pyxll-2.1.0-x86-py27\examples\tools\eclipse_debug.pyc
+2014-05-12 14:51:50,457 - INFO : callbacks.license_notifier: This copy of PyXLL is for evaluation or non-commercial use only
+2014-05-12 14:52:06,118 - ERROR : log4net:ERROR XmlHierarchyConfigurator: Cannot find Property [add] to set object on [log4net.Repository.Hierarchy.Hierarchy]
+2014-05-14 15:28:29,707 - INFO : callbacks.on_close: PyXLL is closing
